@@ -18,29 +18,27 @@ This curriculum follows the proven pedagogical approach:
 
 See [CURRICULUM_PLAN.md](./CURRICULUM_PLAN.md) for the complete planned curriculum.
 
-### Planned Lessons (38 Notebooks)
+### Planned Lessons (40 Notebooks)
 
-#### Foundation
+#### Foundation (Lessons 0-2)
 - **Lesson 0**: Introduction to Reinforcement Learning
-
-#### Markov Decision Processes
 - **Lesson 1**: Markov Decision Processes (MDPs)
 - **Lesson 2**: Dynamic Programming
 
-#### Classical RL
+#### Classical RL (Lessons 3-5)
 - **Lesson 3**: Monte Carlo Methods
 - **Lesson 4**: Temporal Difference Learning (Sarsa, Q-Learning)
 - **Lesson 5**: N-Step Bootstrapping & Eligibility Traces
 
-#### Function Approximation & Deep RL
+#### Function Approximation & Deep RL (Lessons 6-7)
 - **Lesson 6**: Function Approximation
 - **Lesson 7**: Deep Q-Networks (DQN)
 
-#### Policy Gradient Methods
+#### Policy Gradient Methods (Lessons 8-9)
 - **Lesson 8**: Policy Gradient Methods (REINFORCE, Actor-Critic)
 - **Lesson 9**: Trust Region & Proximal Methods (TRPO, PPO)
 
-#### Advanced Topics
+#### Advanced Topics (Lessons 10-15)
 - **Lesson 10**: Continuous Control (DDPG, TD3, SAC)
 - **Lesson 11**: Model-Based RL
 - **Lesson 12**: Multi-Agent RL
@@ -48,26 +46,35 @@ See [CURRICULUM_PLAN.md](./CURRICULUM_PLAN.md) for the complete planned curricul
 - **Lesson 14**: Offline RL & Imitation Learning
 - **Lesson 15**: Hierarchical RL
 
+#### ⭐ LLM Alignment (Lesson 16) - NEW 2025-2026
+- **Lesson 16**: RLHF and LLM Alignment (DPO, Reward Modeling, Safe AI)
+
 #### Professional Practice (X-Series)
 - **X1**: RL Debugging & Best Practices
 - **X2**: RL Evaluation Metrics
-- **X3**: RL Deployment & Safety
+- **X3**: RL Deployment & MLOps
 - **X4**: RL Research Frontiers
 
 ## 🛠️ Technical Stack
 
-- **Core**: NumPy, Pandas, Matplotlib
+- **Core**: NumPy, Pandas, Matplotlib, Seaborn
 - **RL Frameworks**:
   - Gymnasium (environments)
   - Stable-Baselines3 (algorithms)
   - RLlib (distributed RL)
-- **Deep Learning**: PyTorch
+- **Deep Learning**: PyTorch, torchvision
+- **LLM & RLHF** (NEW 2025-2026):
+  - Hugging Face Transformers (pre-trained models)
+  - Hugging Face TRL (RLHF toolkit)
+  - TRLX (PPO-based RLHF)
+  - Datasets (preference data: HH-RLHF, OpenAssistant)
 - **Simulators**:
   - MuJoCo (physics)
   - PyBullet (open-source alternative)
   - Arcade Learning Environment (Atari)
-- **Visualization**: TensorBoard, Weights & Biases
+- **Visualization**: TensorBoard, Weights & Biases, Neptune, Plotly
 - **Multi-Agent**: PettingZoo
+- **Testing**: pytest, nbval, rliable
 
 ## 🎮 Environments
 
@@ -109,31 +116,79 @@ All notebooks are Google Colab compatible. Click the Colab badge in any notebook
 
 ## 📚 Key Concepts Covered
 
+### Classical RL Foundations
 - Markov Decision Processes (MDPs)
 - Bellman Equations (expectation & optimality)
 - Value Functions: V(s) and Q(s,a)
-- Policy Gradient Theorem
 - Temporal Difference Learning
+- Monte Carlo Methods
+
+### Deep RL
 - Experience Replay & Target Networks
+- Function Approximation with Neural Networks
 - Actor-Critic Architectures
-- Trust Region Optimization
+- Policy Gradient Theorem
+- Trust Region Optimization (TRPO, PPO)
+
+### Modern RL (2025-2026)
+- Reinforcement Learning from Human Feedback (RLHF)
+- Direct Preference Optimization (DPO)
+- Reward Modeling from Preferences
+- LLM Alignment (ChatGPT/Claude-style)
+- Safe RL and AI Safety
+
+### Advanced Topics
 - Exploration vs. Exploitation
+- Model-Based RL
+- Multi-Agent RL
+- Offline RL
+- Hierarchical RL
+
+## 🎓 Alignment with Elite Universities (2025-2026)
+
+This curriculum matches standards from top RL programs:
+- **Stanford CS234** (Emma Brunskill): MDPs → Policy Gradients → PPO → RLHF
+- **Berkeley CS285** (Sergey Levine): Deep RL, model-based methods, robotics
+- **MIT 6.7920**: Theoretical foundations and convergence proofs
+- **Cambridge R171**: RLHF for LLMs, DPO, safe alignment
+
+### Key Differentiators
+✅ **RLHF Coverage**: Dedicated Lesson 16 on LLM alignment (critical 2025-2026 topic)
+✅ **Production MLOps**: X3 covers deployment, monitoring, A/B testing
+✅ **Testing Standards**: pytest, nbval, rliable for rigorous evaluation
+✅ **Google Colab**: All notebooks runnable in browser
+✅ **From Scratch + Libraries**: NumPy implementations + Stable-Baselines3
 
 ## 🔗 Related Repositories
 
 This is part of a comprehensive machine learning curriculum:
-- **[supervised-machine-learning](https://github.com/powell-clark/supervised-machine-learning)** - Foundation (complete)
-- **[unsupervised-machine-learning](https://github.com/powell-clark/unsupervised-machine-learning)** - Clustering & dimensionality reduction (in development)
-- **reinforcement-learning** - This repository (in development)
+- **[supervised-machine-learning](https://github.com/powell-clark/supervised-machine-learning)** - Foundation (complete, 16 notebooks)
+- **[unsupervised-machine-learning](https://github.com/powell-clark/unsupervised-machine-learning)** - Clustering & dimensionality reduction (planned)
+- **reinforcement-learning** - This repository (40 notebooks planned)
 
 ## 📚 References
 
-This curriculum is inspired by:
-- **Sutton & Barto**: "Reinforcement Learning: An Introduction" (2nd edition)
-- **David Silver's RL Course**: DeepMind UCL lectures
-- **Berkeley CS285**: Deep Reinforcement Learning
-- **OpenAI Spinning Up**: Practical deep RL guide
-- **Andrew Ng's ML Specialization**: RL section
+### Elite University Courses (2025-2026)
+- **Stanford CS234**: Emma Brunskill's RL course (including RLHF)
+- **Berkeley CS285**: Sergey Levine's Deep RL course
+- **MIT 6.7920**: Theoretical RL with proofs
+- **Cambridge R171**: RL including LLM alignment
+- **David Silver's RL Course**: DeepMind UCL lectures (classic)
+
+### Textbooks
+- **Sutton & Barto**: "Reinforcement Learning: An Introduction" (2nd edition, 2018)
+- **Dimitri Bertsekas**: "Reinforcement Learning and Optimal Control" (2019)
+
+### Practical Resources
+- **OpenAI Spinning Up**: Practical deep RL implementations
+- **Hugging Face RL Course**: Modern course with RLHF
+- **Stanford CS336**: LLM course with alignment coverage
+
+### Key Papers
+- "Training language models to follow instructions with human feedback" (InstructGPT, 2022)
+- "Direct Preference Optimization" (DPO, 2023)
+- "Proximal Policy Optimization" (PPO, Schulman et al., 2017)
+- "Soft Actor-Critic" (SAC, Haarnoja et al., 2018)
 
 ## 📄 License
 
@@ -141,14 +196,16 @@ Apache License 2.0 - See LICENSE.md file for details
 
 ## 🤝 Contributing
 
-Contributions welcome! Please read CONTRIBUTING.md for guidelines.
+Contributions welcome! Please open an issue or pull request.
 
 ## 📧 Contact
 
-Questions or suggestions? Open an issue or reach out!
+Questions or suggestions? Open an issue!
 
 ---
 
-**Status**: Planning complete, implementation in progress
+**Status**: ✅ Planning complete, aligned with elite 2025-2026 standards, ready for Phase 1 implementation
+**Key Update**: Added Lesson 16 on RLHF for LLM Alignment (critical for modern RL)
+**Total Notebooks**: 40 (34 lessons + 4 X-series + 2 RLHF)
 **Created**: 2025
 **Author**: Powell-Clark Limited
