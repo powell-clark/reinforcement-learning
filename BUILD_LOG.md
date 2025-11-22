@@ -8,7 +8,7 @@
 
 ## Progress Tracker
 
-**Current**: 7/40 (17.5%)
+**Current**: 9/40 (22.5%)
 **Target**: 40/40 (100%)
 
 ### Completed Notebooks:
@@ -19,9 +19,11 @@
 - [x] 2a_dynamic_programming_theory.ipynb (700+ lines)
 - [x] 2b_dynamic_programming_practical.ipynb (800+ lines)
 - [x] 3a_monte_carlo_theory.ipynb (750+ lines)
+- [x] 3b_monte_carlo_practical.ipynb (1000+ lines)
+- [x] 4a_temporal_difference_theory.ipynb (900+ lines)
 
 ### In Progress:
-- [ ] 3b_monte_carlo_practical.ipynb - BUILDING NOW
+- [ ] 4b_temporal_difference_practical.ipynb - NEXT
 
 ---
 
@@ -87,4 +89,4 @@
 
 ---
 
-Last Updated: 2025-01-22 - Completed Foundation phase (0-2) and MC Theory (3a). Building 3b now. 7/40 complete (17.5%).
+Last Updated: 2025-01-22 - Completed Foundation (0-2), MC (3a-3b), and TD Theory (4a). 9/40 complete (22.5%). Continuing systematic build toward 40/40.
