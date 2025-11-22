@@ -90,4 +90,9 @@
 
 ---
 
-Last Updated: 2025-01-22 - Completed Foundation (0-2), MC (3a-3b), and TD Theory (4a). 9/40 complete (22.5%). Continuing systematic build toward 40/40.
+Last Updated: 2025-01-22 - MILESTONE: 25% complete! (10/40 notebooks)
+✅ Foundation phase (Lessons 0-2)
+✅ Monte Carlo (Lesson 3)
+✅ Temporal Difference (Lesson 4)
+→ Next: n-Step methods (5), Function Approximation (6), Deep RL (7-10)
+100k tokens remaining. Systematic iteration toward 40/40 continues.
