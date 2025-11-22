@@ -8,7 +8,7 @@
 
 ## Progress Tracker
 
-**Current**: 9/40 (22.5%)
+**Current**: 10/40 (25%)
 **Target**: 40/40 (100%)
 
 ### Completed Notebooks:
@@ -21,9 +21,10 @@
 - [x] 3a_monte_carlo_theory.ipynb (750+ lines)
 - [x] 3b_monte_carlo_practical.ipynb (1000+ lines)
 - [x] 4a_temporal_difference_theory.ipynb (900+ lines)
+- [x] 4b_temporal_difference_practical.ipynb (1100+ lines)
 
 ### In Progress:
-- [ ] 4b_temporal_difference_practical.ipynb - NEXT
+- [ ] Continuing to build remaining 30 notebooks
 
 ---
 
