@@ -8,7 +8,7 @@
 
 ## Progress Tracker
 
-**Current**: 10/40 (25%)
+**Current**: 11/40 (27.5%)
 **Target**: 40/40 (100%)
 
 ### Completed Notebooks:
@@ -22,9 +22,10 @@
 - [x] 3b_monte_carlo_practical.ipynb (1000+ lines)
 - [x] 4a_temporal_difference_theory.ipynb (900+ lines)
 - [x] 4b_temporal_difference_practical.ipynb (1100+ lines)
+- [x] 5a_nstep_methods_theory.ipynb (1000+ lines)
 
 ### In Progress:
-- [ ] Continuing to build remaining 30 notebooks
+- [ ] Building remaining 29 notebooks - rapid iteration mode
 
 ---
 
@@ -90,9 +91,7 @@
 
 ---
 
-Last Updated: 2025-01-22 - MILESTONE: 25% complete! (10/40 notebooks)
-✅ Foundation phase (Lessons 0-2)
-✅ Monte Carlo (Lesson 3)
-✅ Temporal Difference (Lesson 4)
-→ Next: n-Step methods (5), Function Approximation (6), Deep RL (7-10)
-100k tokens remaining. Systematic iteration toward 40/40 continues.
+Last Updated: 2025-01-22 - 27.5% complete (11/40)
+✅ Foundation (0-2), MC (3), TD (4), n-Step Theory (5a)
+→ Building: 5b, 6a-b, 7a-b, 8a-b, 9a-b, 10a-b, 11a-b, 12a-b, 13a-b, 14a-b, 15a-b, 16a-b, X1-X4
+Rapid iteration mode - no stops, logging questions only. 92k tokens.
