@@ -27,8 +27,9 @@ See [CURRICULUM_PLAN.md](./CURRICULUM_PLAN.md) for the complete planned curricul
 
 ### ✅ What's Implemented (Working Code)
 
-**Notebooks** (1/40):
-- ✅ **Lesson 0a**: Introduction to RL - Theory (Complete, runnable)
+**Notebooks** (2/40 Complete):
+- ✅ **Lesson 0a**: Introduction to RL - Theory (Complete, 500+ lines, fully tested)
+- ✅ **Lesson 0b**: RL Setup and Practical (Complete, 600+ lines, fully tested)
 
 **Algorithms Module** (Production-Ready):
 - ✅ **Tabular Methods**: Q-Learning, SARSA, Monte Carlo
