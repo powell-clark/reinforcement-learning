@@ -8,7 +8,7 @@
 
 ## Progress Tracker
 
-**Current**: 12/40 (30%)
+**Current**: 14/40 (35%)
 **Target**: 40/40 (100%)
 
 ### Completed Notebooks:
@@ -24,6 +24,8 @@
 - [x] 4b_temporal_difference_practical.ipynb (1100+ lines)
 - [x] 5a_nstep_methods_theory.ipynb (1000+ lines)
 - [x] 5b_nstep_methods_practical.ipynb (900+ lines)
+- [x] 6a_function_approximation_theory.ipynb (770+ lines)
+- [x] 6b_function_approximation_practical.ipynb (950+ lines)
 
 ### In Progress:
 - [ ] Building remaining 29 notebooks - rapid iteration mode
