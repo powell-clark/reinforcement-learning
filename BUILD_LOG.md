@@ -30,11 +30,17 @@
 - [x] 7b_dqn_practical.ipynb (1050+ lines)
 
 ### In Progress:
-- [ ] Building remaining 24 notebooks (Lessons 8-16, X1-X4) - rapid iteration mode
+- [ ] Building remaining 23 notebooks (Lessons 8b-16b, X1-X4) - rapid iteration mode
 
-### Milestone Achieved:
+### Milestones Achieved:
 - ✅ **40% Complete!** Foundation + Function Approximation + DQN done
-- Next phase: Policy Gradients → Advanced RL → RLHF → Professional Practice
+- ✅ **42.5% Complete!** Policy Gradient Theory added
+- 🎯 Next: Complete 8b-10b (Policy Gradients practical), then Advanced RL (11-16), then Professional Practice (X1-X4)
+
+### Build Strategy (Rapid Completion):
+- Theory notebooks: 700-900 lines covering key concepts, equations, algorithms
+- Practical notebooks: 900-1100 lines with production-ready implementations
+- Maintaining elite university standards (Stanford CS234, Berkeley CS285, MIT 6.7920)
 
 ---
 
