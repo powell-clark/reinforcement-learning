@@ -30,7 +30,11 @@
 - [x] 7b_dqn_practical.ipynb (1050+ lines)
 
 ### In Progress:
-- [ ] Building remaining 29 notebooks - rapid iteration mode
+- [ ] Building remaining 24 notebooks (Lessons 8-16, X1-X4) - rapid iteration mode
+
+### Milestone Achieved:
+- ✅ **40% Complete!** Foundation + Function Approximation + DQN done
+- Next phase: Policy Gradients → Advanced RL → RLHF → Professional Practice
 
 ---
 
