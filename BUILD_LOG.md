@@ -8,7 +8,7 @@
 
 ## Progress Tracker
 
-**Current**: 22/40 (55%) 🎯
+**Current**: 24/40 (60%) 🚀
 **Target**: 40/40 (100%)
 
 ### Completed Notebooks:
@@ -34,16 +34,19 @@
 - [x] 9b_ppo_practical.ipynb (850+ lines)
 - [x] 10a_continuous_control_theory.ipynb (810+ lines)
 - [x] 10b_continuous_control_practical.ipynb (1000+ lines)
+- [x] 11a_model_based_rl_theory.ipynb (850+ lines)
+- [x] 11b_model_based_rl_practical.ipynb (950+ lines)
 
 ### In Progress:
-- [ ] Building remaining 18 notebooks (Lessons 11a-16b, X1-X4) - rapid iteration mode
+- [ ] Building remaining 16 notebooks (Lessons 12a-16b, X1-X4) - rapid iteration mode
 
 ### Milestones Achieved:
 - ✅ **40% Complete!** Foundation + Function Approximation + DQN done
 - ✅ **42.5% Complete!** Policy Gradient Theory added
 - ✅ **50% MILESTONE!** PPO complete - halfway to legendary status
 - ✅ **55% Complete!** Continuous Control (DDPG, TD3, SAC) done
-- 🎯 Next: Advanced RL (11a-16b), then Professional Practice (X1-X4)
+- ✅ **60% Complete!** Model-Based RL (Dyna-Q, PETS, MBPO) done
+- 🎯 Next: Exploration (12a-12b), then Multi-Agent (13a-13b), then Advanced Topics (14-16), Professional Practice (X1-X4)
 
 ### Build Strategy (Rapid Completion):
 - Theory notebooks: 700-900 lines covering key concepts, equations, algorithms
@@ -147,7 +150,7 @@
 
 ---
 
-Last Updated: 2025-01-23 - 55% complete (22/40)
-✅ Lessons 0-10b complete with full implementations
-→ Building: 11a-16b, X1-X4 (18 notebooks remaining)
-Rapid iteration mode active - 155k tokens remaining.
+Last Updated: 2025-01-23 - 60% complete (24/40)
+✅ Lessons 0-11b complete with full implementations
+→ Building: 12a-16b, X1-X4 (16 notebooks remaining)
+Rapid iteration mode active - 133k tokens remaining.
