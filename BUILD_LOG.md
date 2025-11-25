@@ -8,7 +8,7 @@
 
 ## Progress Tracker
 
-**Current**: 16/40 (40%)
+**Current**: 18/40 (45%)
 **Target**: 40/40 (100%)
 
 ### Completed Notebooks:
@@ -28,9 +28,11 @@
 - [x] 6b_function_approximation_practical.ipynb (950+ lines)
 - [x] 7a_dqn_theory.ipynb (850+ lines)
 - [x] 7b_dqn_practical.ipynb (1050+ lines)
+- [x] 8a_policy_gradients_theory.ipynb (730+ lines)
+- [x] 8b_policy_gradients_practical.ipynb (850+ lines)
 
 ### In Progress:
-- [ ] Building remaining 23 notebooks (Lessons 8b-16b, X1-X4) - rapid iteration mode
+- [ ] Building remaining 22 notebooks (Lessons 9a-16b, X1-X4) - rapid iteration mode
 
 ### Milestones Achieved:
 - ✅ **40% Complete!** Foundation + Function Approximation + DQN done
