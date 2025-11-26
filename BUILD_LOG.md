@@ -8,7 +8,7 @@
 
 ## Progress Tracker
 
-**Current**: 28/40 (70%) 🎯
+**Current**: 32/40 (80%) 🎯
 **Target**: 40/40 (100%)
 
 ### Completed Notebooks:
@@ -40,9 +40,15 @@
 - [x] 12b_exploration_practical.ipynb (1000+ lines)
 - [x] 13a_multi_agent_rl_theory.ipynb (890+ lines)
 - [x] 13b_multi_agent_rl_practical.ipynb (910+ lines)
+- [x] 14a_hierarchical_rl_theory.ipynb (700+ lines)
+- [x] 14b_hierarchical_rl_practical.ipynb (800+ lines)
+- [x] 15a_meta_learning_theory.ipynb (750+ lines)
+- [x] 15b_meta_learning_practical.ipynb (700+ lines)
+- [x] 16a_rlhf_theory.ipynb (950+ lines)
+- [x] 16b_rlhf_practical.ipynb (1000+ lines)
 
 ### In Progress:
-- [ ] Building remaining 12 notebooks (Lessons 14a-16b, X1-X4) - rapid iteration mode
+- [ ] Building remaining 8 notebooks (X1-X4 Professional Practice) - rapid iteration mode
 
 ### Milestones Achieved:
 - ✅ **40% Complete!** Foundation + Function Approximation + DQN done
@@ -52,7 +58,9 @@
 - ✅ **60% Complete!** Model-Based RL (Dyna-Q, PETS, MBPO) done
 - ✅ **65% Complete!** Exploration (UCB, ICM, RND, Count-based) done
 - ✅ **70% Complete!** Multi-Agent RL (IQL, MADDPG, VDN) done
-- 🎯 Next: Hierarchical RL (14a-14b), Meta-Learning (15a-15b), RLHF (16a-16b), Professional Practice (X1-X4)
+- ✅ **75% Complete!** Hierarchical RL (Options, HER) + Meta-Learning (MAML, RL²) done
+- ✅ **80% MILESTONE!** RLHF complete (PPO-RLHF, DPO, Constitutional AI) - critical for 2025!
+- 🎯 Next: Professional Practice (X1-X4) to reach 100% legendary status
 
 ### Build Strategy (Rapid Completion):
 - Theory notebooks: 700-900 lines covering key concepts, equations, algorithms
@@ -156,7 +164,7 @@
 
 ---
 
-Last Updated: 2025-01-23 - 70% complete (28/40)
-✅ Lessons 0-13b complete with full implementations
-→ Building: 14a-16b, X1-X4 (12 notebooks remaining)
-Rapid iteration mode active - 95k tokens remaining.
+Last Updated: 2025-01-23 - 80% complete (32/40)
+✅ Lessons 0-16b complete with full implementations
+→ Building: X1-X4 Professional Practice (8 notebooks remaining)
+Rapid iteration mode active - 153k tokens remaining.
