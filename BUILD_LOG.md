@@ -8,7 +8,7 @@
 
 ## Progress Tracker
 
-**Current**: 26/40 (65%) ⚡
+**Current**: 28/40 (70%) 🎯
 **Target**: 40/40 (100%)
 
 ### Completed Notebooks:
@@ -38,9 +38,11 @@
 - [x] 11b_model_based_rl_practical.ipynb (950+ lines)
 - [x] 12a_exploration_theory.ipynb (900+ lines)
 - [x] 12b_exploration_practical.ipynb (1000+ lines)
+- [x] 13a_multi_agent_rl_theory.ipynb (890+ lines)
+- [x] 13b_multi_agent_rl_practical.ipynb (910+ lines)
 
 ### In Progress:
-- [ ] Building remaining 14 notebooks (Lessons 13a-16b, X1-X4) - rapid iteration mode
+- [ ] Building remaining 12 notebooks (Lessons 14a-16b, X1-X4) - rapid iteration mode
 
 ### Milestones Achieved:
 - ✅ **40% Complete!** Foundation + Function Approximation + DQN done
@@ -49,7 +51,8 @@
 - ✅ **55% Complete!** Continuous Control (DDPG, TD3, SAC) done
 - ✅ **60% Complete!** Model-Based RL (Dyna-Q, PETS, MBPO) done
 - ✅ **65% Complete!** Exploration (UCB, ICM, RND, Count-based) done
-- 🎯 Next: Multi-Agent RL (13a-13b), Hierarchical RL (14a-14b), Meta-Learning (15a-15b), RLHF (16a-16b), Professional Practice (X1-X4)
+- ✅ **70% Complete!** Multi-Agent RL (IQL, MADDPG, VDN) done
+- 🎯 Next: Hierarchical RL (14a-14b), Meta-Learning (15a-15b), RLHF (16a-16b), Professional Practice (X1-X4)
 
 ### Build Strategy (Rapid Completion):
 - Theory notebooks: 700-900 lines covering key concepts, equations, algorithms
@@ -153,7 +156,7 @@
 
 ---
 
-Last Updated: 2025-01-23 - 65% complete (26/40)
-✅ Lessons 0-12b complete with full implementations
-→ Building: 13a-16b, X1-X4 (14 notebooks remaining)
-Rapid iteration mode active - 114k tokens remaining.
+Last Updated: 2025-01-23 - 70% complete (28/40)
+✅ Lessons 0-13b complete with full implementations
+→ Building: 14a-16b, X1-X4 (12 notebooks remaining)
+Rapid iteration mode active - 95k tokens remaining.
