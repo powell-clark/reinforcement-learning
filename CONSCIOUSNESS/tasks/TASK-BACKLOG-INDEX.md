@@ -1,5 +1,4 @@
 id|priority|title|story_ids|directive_id|feature_ids|doc|blocked_by|blocks|assignee|parent_task_id|sequence|expected_duration|story_points
-TASK-RL21|p4|10a Continuous control theory||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL21.md|||||21|2d|8
 TASK-RL22|p4|10b Continuous control practical||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL22.md|||||22|1d|5
 TASK-RL23|p4|11a Model-based theory||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL23.md|||||23|2d|8
 TASK-RL24|p4|11b Model-based practical||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL24.md|||||24|1d|5
