@@ -6,3 +6,5 @@
 {"timestamp":"2026-07-01 11:36:40.097 bst","session_id":"rl-main-6e45b228","hook_name":"message-end","latency_ms":18}
 {"timestamp":"2026-07-01 11:36:56.875 bst","session_id":"rl-main-10d7662e","hook_name":"session-init","latency_ms":59}
 {"timestamp":"2026-07-01 11:37:47.426 bst","session_id":"rl-main-10d7662e","hook_name":"message-end","latency_ms":20}
+{"timestamp":"2026-07-01 11:40:34.103 bst","session_id":"rl-main-10d7662e","hook_name":"message-end","latency_ms":6}
+{"timestamp":"2026-07-01 11:40:38.803 bst","session_id":"rl-main-7dc98e40","hook_name":"session-init","latency_ms":57}
