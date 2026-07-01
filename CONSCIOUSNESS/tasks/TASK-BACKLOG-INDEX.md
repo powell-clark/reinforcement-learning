@@ -1,5 +1,4 @@
 id|priority|title|story_ids|directive_id|feature_ids|doc|blocked_by|blocks|assignee|parent_task_id|sequence|expected_duration|story_points
-TASK-RL18|p3|8b Policy gradients practical||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL18.md|||||18|1d|5
 TASK-RL19|p3|9a TRPO PPO theory||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL19.md|||||19|2d|8
 TASK-RL20|p3|9b TRPO PPO practical||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL20.md|||||20|1d|5
 TASK-RL21|p4|10a Continuous control theory||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL21.md|||||21|2d|8
