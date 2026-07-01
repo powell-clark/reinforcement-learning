@@ -32,3 +32,5 @@
 {"timestamp":"2026-07-01 12:12:34.452 bst","session_id":"rl-main-7dc98e40","hook_name":"message-end","latency_ms":25}
 {"timestamp":"2026-07-01 12:12:52.904 bst","session_id":"rl-main-7dc98e40","hook_name":"message-end","latency_ms":26}
 {"timestamp":"2026-07-01 12:13:03.971 bst","session_id":"rl-main-7dc98e40","hook_name":"message-end","latency_ms":26}
+{"timestamp":"2026-07-01 12:14:06.554 bst","session_id":"rl-main-7dc98e40","hook_name":"message-end","latency_ms":25}
+{"timestamp":"2026-07-01 12:14:19.452 bst","session_id":"rl-main-7dc98e40","hook_name":"message-end","latency_ms":24}
