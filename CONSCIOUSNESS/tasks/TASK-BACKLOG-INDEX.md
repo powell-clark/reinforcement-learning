@@ -1,5 +1,4 @@
 id|priority|title|story_ids|directive_id|feature_ids|doc|blocked_by|blocks|assignee|parent_task_id|sequence|expected_duration|story_points
-TASK-RL5|p2|2a Dynamic programming theory||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL5.md|||||5|1d|5
 TASK-RL6|p2|2b Dynamic programming practical||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL6.md|||||6|1d|3
 TASK-RL7|p2|3a Monte Carlo theory||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL7.md|||||7|1d|5
 TASK-RL8|p2|3b Monte Carlo practical||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL8.md|||||8|1d|3

@@ -4,14 +4,14 @@
 Deliverable: `notebooks/2a_*.ipynb` for STORY-RL3 (Dynamic Programming). Lesson 2 — solving known MDPs with DP. Establishes policy/value iteration and their guarantees.
 
 ## Acceptance Criteria
-- [ ] Derive the policy improvement theorem
-- [ ] Implement policy iteration and value iteration from scratch
-- [ ] Explain convergence guarantees and complexity
+- [x] Derive the policy improvement theorem
+- [x] Implement policy iteration and value iteration from scratch
+- [x] Explain convergence guarantees and complexity
 
 ## Cross-cutting Criteria
-- [ ] Notebook runs top-to-bottom on Google Colab (FEAT-RL1)
-- [ ] Uses the Gymnasium environment API where an environment is involved (FEAT-RL3)
-- [ ] Includes a from-scratch implementation of the core algorithm (FEAT-RL2)
+- [x] Notebook runs top-to-bottom on Google Colab (FEAT-RL1)
+- [x] Uses the Gymnasium environment API where an environment is involved (FEAT-RL3)
+- [x] Includes a from-scratch implementation of the core algorithm (FEAT-RL2)
 
 ## Technical Notes
 GridWorld; emphasize the prediction vs control distinction.
