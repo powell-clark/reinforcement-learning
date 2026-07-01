@@ -24,3 +24,4 @@ TASK-RL33|p4|X1 RL debugging notebook||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-t
 TASK-RL34|p4|X2 RL evaluation notebook||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL34.md|||||34|1d|3
 TASK-RL35|p4|X3 RL deployment notebook||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL35.md|||||35|1d|3
 TASK-RL36|p4|X4 RL research frontiers||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL36.md|||||36|1d|3
+TASK-RL037|p3|Stall - do we need to own compact hook and why is the conc version wrong?||||TASK-RL037.md|||||a0||
