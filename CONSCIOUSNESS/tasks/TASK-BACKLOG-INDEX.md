@@ -1,5 +1,4 @@
 id|priority|title|story_ids|directive_id|feature_ids|doc|blocked_by|blocks|assignee|parent_task_id|sequence|expected_duration|story_points
-TASK-RL10|p2|4b TD learning practical||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL10.md|||||10|1d|3
 TASK-RL11|p2|5a N-step eligibility theory||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL11.md|||||11|1d|5
 TASK-RL12|p2|5b N-step eligibility practical||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL12.md|||||12|1d|3
 TASK-RL13|p3|6a Function approximation theory||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL13.md|||||13|1d|5
