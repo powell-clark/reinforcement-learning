@@ -17,5 +17,7 @@ Deliverable: `notebooks/10a_*.ipynb` for STORY-RL11 (Continuous Control). Lesson
 Pendulum is the minimal continuous-control task.
 
 ## Dependencies
+- Blocked by: TASK-RL20
+- Blocks: TASK-RL22
 - Story: STORY-RL11 (Continuous Control)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

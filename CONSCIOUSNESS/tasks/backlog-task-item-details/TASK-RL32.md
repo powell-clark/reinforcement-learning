@@ -17,5 +17,7 @@ Deliverable: `notebooks/15b_*.ipynb` for STORY-RL16 (Hierarchical RL). Lesson 15
 FetchReach, FetchPush robotics.
 
 ## Dependencies
+- Blocked by: TASK-RL31
+- Blocks: TASK-RL33
 - Story: STORY-RL16 (Hierarchical RL)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

@@ -17,5 +17,7 @@ Deliverable: `notebooks/5b_*.ipynb` for STORY-RL6 (N-Step and Eligibility Traces
 MountainCar introduces the need for function approximation next.
 
 ## Dependencies
+- Blocked by: TASK-RL11
+- Blocks: TASK-RL13
 - Story: STORY-RL6 (N-Step and Eligibility Traces)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

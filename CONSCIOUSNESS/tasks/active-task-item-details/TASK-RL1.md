@@ -21,5 +21,7 @@ Deliverable: `notebooks/0a_*.ipynb` for STORY-RL1 (Introduction to RL). Lesson 0
 Conceptual notebook; use a custom GridWorld for intuition. No heavy dependencies.
 
 ## Dependencies
+- Blocked by: TASK-RL0
+- Blocks: TASK-RL2
 - Story: STORY-RL1 (Introduction to RL)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

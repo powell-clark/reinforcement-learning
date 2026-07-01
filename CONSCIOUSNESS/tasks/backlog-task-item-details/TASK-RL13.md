@@ -18,5 +18,7 @@ Deliverable: `notebooks/6a_*.ipynb` for STORY-RL7 (Function Approximation). Less
 MountainCar with continuous states motivates approximation.
 
 ## Dependencies
+- Blocked by: TASK-RL12
+- Blocks: TASK-RL14
 - Story: STORY-RL7 (Function Approximation)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

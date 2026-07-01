@@ -17,5 +17,7 @@ Deliverable: `notebooks/11b_*.ipynb` for STORY-RL12 (Model-Based RL). Lesson 11 
 CartPole and simple tasks.
 
 ## Dependencies
+- Blocked by: TASK-RL23
+- Blocks: TASK-RL25
 - Story: STORY-RL12 (Model-Based RL)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

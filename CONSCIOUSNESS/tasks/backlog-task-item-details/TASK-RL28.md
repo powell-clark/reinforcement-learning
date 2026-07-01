@@ -17,5 +17,7 @@ Deliverable: `notebooks/13b_*.ipynb` for STORY-RL14 (Exploration Strategies). Le
 Montezuma's Revenge, procedurally generated mazes.
 
 ## Dependencies
+- Blocked by: TASK-RL27
+- Blocks: TASK-RL29
 - Story: STORY-RL14 (Exploration Strategies)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

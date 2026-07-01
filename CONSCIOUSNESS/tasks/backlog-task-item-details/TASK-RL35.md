@@ -16,5 +16,7 @@ Deliverable: `notebooks/X3_*.ipynb` for STORY-RL17 (Professional Practice Series
 Production and safety focus.
 
 ## Dependencies
+- Blocked by: TASK-RL34
+- Blocks: TASK-RL36
 - Story: STORY-RL17 (Professional Practice Series)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

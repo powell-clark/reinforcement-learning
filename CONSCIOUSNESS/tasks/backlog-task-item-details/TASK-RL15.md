@@ -19,5 +19,7 @@ Deliverable: `notebooks/7a_*.ipynb` for STORY-RL8 (Deep Q-Networks). Lesson 7 â€
 CartPole first, then Atari framing. PyTorch required.
 
 ## Dependencies
+- Blocked by: TASK-RL14
+- Blocks: TASK-RL16
 - Story: STORY-RL8 (Deep Q-Networks)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

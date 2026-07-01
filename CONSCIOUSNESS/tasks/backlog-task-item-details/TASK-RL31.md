@@ -17,5 +17,7 @@ Deliverable: `notebooks/15a_*.ipynb` for STORY-RL16 (Hierarchical RL). Lesson 15
 Complex navigation tasks.
 
 ## Dependencies
+- Blocked by: TASK-RL30
+- Blocks: TASK-RL32
 - Story: STORY-RL16 (Hierarchical RL)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

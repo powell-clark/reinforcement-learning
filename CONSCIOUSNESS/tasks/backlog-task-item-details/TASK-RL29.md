@@ -18,5 +18,7 @@ Deliverable: `notebooks/14a_*.ipynb` for STORY-RL15 (Offline RL and Imitation). 
 Distribution-shift is the central challenge.
 
 ## Dependencies
+- Blocked by: TASK-RL28
+- Blocks: TASK-RL30
 - Story: STORY-RL15 (Offline RL and Imitation)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

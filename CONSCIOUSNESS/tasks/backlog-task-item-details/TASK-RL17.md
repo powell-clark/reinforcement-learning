@@ -18,5 +18,7 @@ Deliverable: `notebooks/8a_*.ipynb` for STORY-RL9 (Policy Gradient Methods). Les
 LunarLander is the target continuous-ish control task.
 
 ## Dependencies
+- Blocked by: TASK-RL16
+- Blocks: TASK-RL18
 - Story: STORY-RL9 (Policy Gradient Methods)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

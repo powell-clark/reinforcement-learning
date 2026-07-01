@@ -20,5 +20,7 @@ Deliverable: `notebooks/0b_*.ipynb` for STORY-RL1 (Introduction to RL). Lesson 0
 Sets up the environment API every later practical notebook reuses.
 
 ## Dependencies
+- Blocked by: TASK-RL1
+- Blocks: TASK-RL3
 - Story: STORY-RL1 (Introduction to RL)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

@@ -17,5 +17,7 @@ Deliverable: `notebooks/4b_*.ipynb` for STORY-RL5 (Temporal Difference Learning)
 Hyperparameter sweeps with learning-curve visualization.
 
 ## Dependencies
+- Blocked by: TASK-RL9
+- Blocks: TASK-RL11
 - Story: STORY-RL5 (Temporal Difference Learning)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

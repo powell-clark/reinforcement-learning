@@ -17,5 +17,7 @@ Deliverable: `notebooks/12a_*.ipynb` for STORY-RL13 (Multi-Agent RL). Lesson 12 
 Game-theoretic grounding.
 
 ## Dependencies
+- Blocked by: TASK-RL24
+- Blocks: TASK-RL26
 - Story: STORY-RL13 (Multi-Agent RL)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

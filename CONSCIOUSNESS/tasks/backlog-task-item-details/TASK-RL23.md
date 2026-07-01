@@ -18,5 +18,7 @@ Deliverable: `notebooks/11a_*.ipynb` for STORY-RL12 (Model-Based RL). Lesson 11 
 GridWorld/Maze for planning intuition.
 
 ## Dependencies
+- Blocked by: TASK-RL22
+- Blocks: TASK-RL24
 - Story: STORY-RL12 (Model-Based RL)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

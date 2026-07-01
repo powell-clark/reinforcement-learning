@@ -17,5 +17,7 @@ Deliverable: `notebooks/12b_*.ipynb` for STORY-RL13 (Multi-Agent RL). Lesson 12 
 PettingZoo API.
 
 ## Dependencies
+- Blocked by: TASK-RL25
+- Blocks: TASK-RL27
 - Story: STORY-RL13 (Multi-Agent RL)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

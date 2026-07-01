@@ -17,5 +17,7 @@ Deliverable: `notebooks/8b_*.ipynb` for STORY-RL9 (Policy Gradient Methods). Les
 LunarLander and BipedalWalker via Gymnasium + SB3.
 
 ## Dependencies
+- Blocked by: TASK-RL17
+- Blocks: TASK-RL19
 - Story: STORY-RL9 (Policy Gradient Methods)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

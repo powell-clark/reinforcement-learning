@@ -18,5 +18,7 @@ Deliverable: `notebooks/3a_*.ipynb` for STORY-RL4 (Monte Carlo Methods). Lesson 
 Blackjack is the canonical teaching environment.
 
 ## Dependencies
+- Blocked by: TASK-RL6
+- Blocks: TASK-RL8
 - Story: STORY-RL4 (Monte Carlo Methods)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

@@ -17,5 +17,7 @@ Deliverable: `notebooks/2a_*.ipynb` for STORY-RL3 (Dynamic Programming). Lesson 
 GridWorld; emphasize the prediction vs control distinction.
 
 ## Dependencies
+- Blocked by: TASK-RL4
+- Blocks: TASK-RL6
 - Story: STORY-RL3 (Dynamic Programming)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

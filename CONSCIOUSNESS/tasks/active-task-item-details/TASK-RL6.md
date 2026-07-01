@@ -17,5 +17,7 @@ Deliverable: `notebooks/2b_*.ipynb` for STORY-RL3 (Dynamic Programming). Lesson 
 Efficiency-focused implementation techniques.
 
 ## Dependencies
+- Blocked by: TASK-RL5
+- Blocks: TASK-RL7
 - Story: STORY-RL3 (Dynamic Programming)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

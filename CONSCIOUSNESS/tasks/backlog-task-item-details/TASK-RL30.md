@@ -17,5 +17,7 @@ Deliverable: `notebooks/14b_*.ipynb` for STORY-RL15 (Offline RL and Imitation). 
 D4RL datasets.
 
 ## Dependencies
+- Blocked by: TASK-RL29
+- Blocks: TASK-RL31
 - Story: STORY-RL15 (Offline RL and Imitation)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

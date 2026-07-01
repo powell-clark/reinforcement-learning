@@ -17,5 +17,7 @@ Deliverable: `notebooks/6b_*.ipynb` for STORY-RL7 (Function Approximation). Less
 Bridges tabular methods to deep RL.
 
 ## Dependencies
+- Blocked by: TASK-RL13
+- Blocks: TASK-RL15
 - Story: STORY-RL7 (Function Approximation)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

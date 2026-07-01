@@ -17,5 +17,7 @@ Deliverable: `notebooks/1b_*.ipynb` for STORY-RL2 (Markov Decision Processes). L
 FrozenLake via Gymnasium; discretized tabular solvers.
 
 ## Dependencies
+- Blocked by: TASK-RL3
+- Blocks: TASK-RL5
 - Story: STORY-RL2 (Markov Decision Processes)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

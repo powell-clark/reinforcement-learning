@@ -17,5 +17,7 @@ Deliverable: `notebooks/9b_*.ipynb` for STORY-RL10 (Trust Region and PPO). Lesso
 MuJoCo environments (HalfCheetah, Ant, Humanoid).
 
 ## Dependencies
+- Blocked by: TASK-RL19
+- Blocks: TASK-RL21
 - Story: STORY-RL10 (Trust Region and PPO)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

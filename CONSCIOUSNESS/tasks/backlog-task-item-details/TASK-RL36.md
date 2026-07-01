@@ -16,5 +16,7 @@ Deliverable: `notebooks/X4_*.ipynb` for STORY-RL17 (Professional Practice Series
 Research orientation.
 
 ## Dependencies
+- Blocked by: TASK-RL35
+- Blocks: none
 - Story: STORY-RL17 (Professional Practice Series)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

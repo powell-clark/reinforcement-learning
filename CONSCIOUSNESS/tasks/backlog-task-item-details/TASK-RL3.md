@@ -22,5 +22,7 @@ Deliverable: `notebooks/1a_*.ipynb` for STORY-RL2 (Markov Decision Processes). L
 Derivation-heavy. Use small MDPs (student MDP, recycling robot).
 
 ## Dependencies
+- Blocked by: TASK-RL2
+- Blocks: TASK-RL4
 - Story: STORY-RL2 (Markov Decision Processes)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

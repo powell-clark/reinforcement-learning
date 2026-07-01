@@ -18,5 +18,7 @@ Deliverable: `notebooks/4a_*.ipynb` for STORY-RL5 (Temporal Difference Learning)
 CliffWalking and WindyGridWorld highlight Sarsa vs Q-learning behavior.
 
 ## Dependencies
+- Blocked by: TASK-RL8
+- Blocks: TASK-RL10
 - Story: STORY-RL5 (Temporal Difference Learning)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

@@ -17,5 +17,7 @@ Deliverable: `notebooks/10b_*.ipynb` for STORY-RL11 (Continuous Control). Lesson
 Reacher, Pusher, MuJoCo robotics.
 
 ## Dependencies
+- Blocked by: TASK-RL21
+- Blocks: TASK-RL23
 - Story: STORY-RL11 (Continuous Control)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

@@ -18,5 +18,7 @@ Deliverable: `notebooks/9a_*.ipynb` for STORY-RL10 (Trust Region and PPO). Lesso
 MuJoCo continuous-control framing.
 
 ## Dependencies
+- Blocked by: TASK-RL18
+- Blocks: TASK-RL20
 - Story: STORY-RL10 (Trust Region and PPO)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

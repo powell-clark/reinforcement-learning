@@ -16,5 +16,7 @@ Deliverable: `notebooks/X1_*.ipynb` for STORY-RL17 (Professional Practice Series
 Practitioner debugging toolkit.
 
 ## Dependencies
+- Blocked by: TASK-RL32
+- Blocks: TASK-RL34
 - Story: STORY-RL17 (Professional Practice Series)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

@@ -18,5 +18,7 @@ Deliverable: `notebooks/5a_*.ipynb` for STORY-RL6 (N-Step and Eligibility Traces
 RandomWalk isolates the prediction problem cleanly.
 
 ## Dependencies
+- Blocked by: TASK-RL10
+- Blocks: TASK-RL12
 - Story: STORY-RL6 (N-Step and Eligibility Traces)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

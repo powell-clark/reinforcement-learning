@@ -17,5 +17,7 @@ Deliverable: `notebooks/3b_*.ipynb` for STORY-RL4 (Monte Carlo Methods). Lesson 
 Blackjack and CliffWalking via Gymnasium.
 
 ## Dependencies
+- Blocked by: TASK-RL7
+- Blocks: TASK-RL9
 - Story: STORY-RL4 (Monte Carlo Methods)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

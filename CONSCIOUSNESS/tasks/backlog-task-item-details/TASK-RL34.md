@@ -16,5 +16,7 @@ Deliverable: `notebooks/X2_*.ipynb` for STORY-RL17 (Professional Practice Series
 Rigorous evaluation methodology.
 
 ## Dependencies
+- Blocked by: TASK-RL33
+- Blocks: TASK-RL35
 - Story: STORY-RL17 (Professional Practice Series)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

@@ -18,5 +18,7 @@ Deliverable: `notebooks/13a_*.ipynb` for STORY-RL14 (Exploration Strategies). Le
 Hard-exploration motivation.
 
 ## Dependencies
+- Blocked by: TASK-RL26
+- Blocks: TASK-RL28
 - Story: STORY-RL14 (Exploration Strategies)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)

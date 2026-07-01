@@ -17,5 +17,7 @@ Deliverable: `notebooks/7b_*.ipynb` for STORY-RL8 (Deep Q-Networks). Lesson 7 â€
 Atari (Breakout, Pong) via Gymnasium + SB3.
 
 ## Dependencies
+- Blocked by: TASK-RL15
+- Blocks: TASK-RL17
 - Story: STORY-RL8 (Deep Q-Networks)
 - Directive: DIRECT-RL1 (Ship complete RL curriculum)
