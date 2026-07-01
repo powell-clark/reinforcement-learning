@@ -1,0 +1,4 @@
+{"timestamp":"2026-07-01 09:07:59.041 bst","session_id":"rl-main-99b0fc77","hook_name":"session-init","latency_ms":63}
+{"timestamp":"2026-07-01 09:15:20.507 bst","session_id":"rl-main-99b0fc77","hook_name":"message-end","latency_ms":4}
+{"timestamp":"2026-07-01 11:22:52.974 bst","session_id":"rl-main-6e45b228","hook_name":"session-init","latency_ms":58}
+{"timestamp":"2026-07-01 11:23:08.648 bst","session_id":"rl-main-6e45b228","hook_name":"message-end","latency_ms":4}

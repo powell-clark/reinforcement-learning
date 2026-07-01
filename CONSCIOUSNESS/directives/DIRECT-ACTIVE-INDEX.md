@@ -1,1 +1,2 @@
 id|status|priority|title|created|started|expected_end|actual_end|story_ids|task_ids|feature_ids
+DIRECT-RL1|in_progress|p1|Ship complete RL curriculum|2026-07-01|2026-07-01|||STORY-RL1,STORY-RL2,STORY-RL3,STORY-RL4,STORY-RL5,STORY-RL6,STORY-RL7,STORY-RL8,STORY-RL9,STORY-RL10,STORY-RL11,STORY-RL12,STORY-RL13,STORY-RL14,STORY-RL15,STORY-RL16,STORY-RL17||FEAT-RL1,FEAT-RL2,FEAT-RL3

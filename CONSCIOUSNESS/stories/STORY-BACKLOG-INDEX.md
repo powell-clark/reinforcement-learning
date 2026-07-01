@@ -1,1 +1,17 @@
 id|priority|title|directive_id|task_ids|feature_ids|doc
+STORY-RL2|p2|Markov Decision Processes|DIRECT-RL1|TASK-RL3,TASK-RL4|FEAT-RL1,FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/stories/backlog-story-item-details/STORY-RL2.md
+STORY-RL3|p2|Dynamic Programming|DIRECT-RL1|TASK-RL5,TASK-RL6|FEAT-RL1,FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/stories/backlog-story-item-details/STORY-RL3.md
+STORY-RL4|p2|Monte Carlo Methods|DIRECT-RL1|TASK-RL7,TASK-RL8|FEAT-RL1,FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/stories/backlog-story-item-details/STORY-RL4.md
+STORY-RL5|p2|Temporal Difference Learning|DIRECT-RL1|TASK-RL9,TASK-RL10|FEAT-RL1,FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/stories/backlog-story-item-details/STORY-RL5.md
+STORY-RL6|p2|N-Step and Eligibility Traces|DIRECT-RL1|TASK-RL11,TASK-RL12|FEAT-RL1,FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/stories/backlog-story-item-details/STORY-RL6.md
+STORY-RL7|p3|Function Approximation|DIRECT-RL1|TASK-RL13,TASK-RL14|FEAT-RL1,FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/stories/backlog-story-item-details/STORY-RL7.md
+STORY-RL8|p3|Deep Q-Networks|DIRECT-RL1|TASK-RL15,TASK-RL16|FEAT-RL1,FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/stories/backlog-story-item-details/STORY-RL8.md
+STORY-RL9|p3|Policy Gradient Methods|DIRECT-RL1|TASK-RL17,TASK-RL18|FEAT-RL1,FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/stories/backlog-story-item-details/STORY-RL9.md
+STORY-RL10|p3|Trust Region and PPO|DIRECT-RL1|TASK-RL19,TASK-RL20|FEAT-RL1,FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/stories/backlog-story-item-details/STORY-RL10.md
+STORY-RL11|p4|Continuous Control|DIRECT-RL1|TASK-RL21,TASK-RL22|FEAT-RL1,FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/stories/backlog-story-item-details/STORY-RL11.md
+STORY-RL12|p4|Model-Based RL|DIRECT-RL1|TASK-RL23,TASK-RL24|FEAT-RL1,FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/stories/backlog-story-item-details/STORY-RL12.md
+STORY-RL13|p4|Multi-Agent RL|DIRECT-RL1|TASK-RL25,TASK-RL26|FEAT-RL1,FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/stories/backlog-story-item-details/STORY-RL13.md
+STORY-RL14|p4|Exploration Strategies|DIRECT-RL1|TASK-RL27,TASK-RL28|FEAT-RL1,FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/stories/backlog-story-item-details/STORY-RL14.md
+STORY-RL15|p4|Offline RL and Imitation|DIRECT-RL1|TASK-RL29,TASK-RL30|FEAT-RL1,FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/stories/backlog-story-item-details/STORY-RL15.md
+STORY-RL16|p4|Hierarchical RL|DIRECT-RL1|TASK-RL31,TASK-RL32|FEAT-RL1,FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/stories/backlog-story-item-details/STORY-RL16.md
+STORY-RL17|p4|Professional Practice Series|DIRECT-RL1|TASK-RL33,TASK-RL34,TASK-RL35,TASK-RL36|FEAT-RL1,FEAT-RL3|CONSCIOUSNESS/stories/backlog-story-item-details/STORY-RL17.md
