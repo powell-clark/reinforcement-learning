@@ -13,3 +13,6 @@
 {"timestamp":"2026-07-01 11:55:24.316 bst","session_id":"rl-main-7dc98e40","hook_name":"message-end","latency_ms":9}
 {"timestamp":"2026-07-01 11:57:15.082 bst","session_id":"rl-main-7dc98e40","hook_name":"message-end","latency_ms":10}
 {"timestamp":"2026-07-01 11:59:02.409 bst","session_id":"rl-main-7dc98e40","hook_name":"message-end","latency_ms":10}
+{"timestamp":"2026-07-01 12:00:07.859 bst","session_id":"rl-main-7dc98e40","hook_name":"message-end","latency_ms":24}
+{"timestamp":"2026-07-01 12:00:14.635 bst","session_id":"rl-main-7dc98e40","hook_name":"message-end","latency_ms":25}
+{"timestamp":"2026-07-01 12:00:30.059 bst","session_id":"rl-main-7dc98e40","hook_name":"message-end","latency_ms":29}
