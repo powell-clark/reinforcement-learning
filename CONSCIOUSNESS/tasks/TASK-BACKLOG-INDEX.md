@@ -1,8 +1,4 @@
 id|priority|title|story_ids|directive_id|feature_ids|doc|blocked_by|blocks|assignee|parent_task_id|sequence|expected_duration|story_points
-TASK-RL13|p3|6a Function approximation theory||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL13.md|||||13|1d|5
-TASK-RL14|p3|6b Function approximation practical||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL14.md|||||14|1d|3
-TASK-RL15|p3|7a DQN theory||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL15.md|||||15|2d|8
-TASK-RL16|p3|7b DQN practical||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL16.md|||||16|1d|5
 TASK-RL17|p3|8a Policy gradients theory||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL17.md|||||17|2d|8
 TASK-RL18|p3|8b Policy gradients practical||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL18.md|||||18|1d|5
 TASK-RL19|p3|9a TRPO PPO theory||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL19.md|||||19|2d|8
@@ -23,5 +19,5 @@ TASK-RL33|p4|X1 RL debugging notebook||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-t
 TASK-RL34|p4|X2 RL evaluation notebook||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL34.md|||||34|1d|3
 TASK-RL35|p4|X3 RL deployment notebook||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL35.md|||||35|1d|3
 TASK-RL36|p4|X4 RL research frontiers||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL36.md|||||36|1d|3
-TASK-RL037|p3|Stall - do we need to own compact hook and why is the conc version wrong?||||TASK-RL037.md|||||a0||
-TASK-RL38|backlog|p1||PGPS structure: Complete feature-story-task linkage|STORY-RL0||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL38.md
+TASK-RL037|p3|Stall - do we need to own compact hook and why is the conc version wrong?||||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL037.md|||||37||
+TASK-RL38|p3|Complete feature-story-task linkage||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL38.md|||||38||

@@ -9,9 +9,9 @@ Deliverable: `notebooks/3b_*.ipynb` for STORY-RL4 (Monte Carlo Methods). Lesson 
 - [x] Apply variance-reduction techniques and debug common MC issues
 
 ## Cross-cutting Criteria
-- [ ] Notebook runs top-to-bottom on Google Colab (FEAT-RL1)
-- [ ] Uses the Gymnasium environment API where an environment is involved (FEAT-RL3)
-- [ ] Reproduces the algorithm with Stable-Baselines3 alongside the from-scratch version (FEAT-RL2)
+- [x] Notebook runs top-to-bottom on Google Colab (FEAT-RL1)
+- [x] Uses the Gymnasium environment API where an environment is involved (FEAT-RL3)
+- [x] Reproduces the algorithm with Stable-Baselines3 alongside the from-scratch version (FEAT-RL2)
 
 ## Technical Notes
 Blackjack and CliffWalking via Gymnasium.
