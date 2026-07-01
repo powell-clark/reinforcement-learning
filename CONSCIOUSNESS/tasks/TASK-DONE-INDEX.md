@@ -11,3 +11,4 @@ TASK-RL12|5b N-step eligibility practical||DIRECT-RL1|FEAT-RL2,FEAT-RL3|CONSCIOU
 TASK-RL11|done|p2|STORY-RL6|5a N-step eligibility theory|CONSCIOUSNESS/tasks/active-task-item-details/TASK-RL11.md
 TASK-RL12|done|p2|STORY-RL6|5b N-step eligibility practical|CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL12.md
 TASK-RL13|done|p3|STORY-RL7|6a Function approximation theory|CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL13.md
+TASK-RL14|done|p3|STORY-RL7|6b Function approximation practical|CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL14.md
