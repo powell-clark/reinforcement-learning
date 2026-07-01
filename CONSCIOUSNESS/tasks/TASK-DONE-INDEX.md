@@ -8,3 +8,4 @@ TASK-RL9|4a TD learning theory||DIRECT-RL1|FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/tasks
 TASK-RL10|4b TD learning practical||DIRECT-RL1|FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/tasks/active-task-item-details/TASK-RL10.md|1d|3
 TASK-RL11|5a N-step eligibility theory||DIRECT-RL1|FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/tasks/active-task-item-details/TASK-RL11.md|1d|5
 TASK-RL12|5b N-step eligibility practical||DIRECT-RL1|FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/tasks/active-task-item-details/TASK-RL12.md|1d|3
+TASK-RL11|done|p2|STORY-RL6|5a N-step eligibility theory|CONSCIOUSNESS/tasks/active-task-item-details/TASK-RL11.md
