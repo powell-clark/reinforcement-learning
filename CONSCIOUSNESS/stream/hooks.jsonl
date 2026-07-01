@@ -10,3 +10,4 @@
 {"timestamp":"2026-07-01 11:40:38.803 bst","session_id":"rl-main-7dc98e40","hook_name":"session-init","latency_ms":57}
 {"timestamp":"2026-07-01 11:47:07.883 bst","session_id":"rl-main-7dc98e40","hook_name":"message-end","latency_ms":9}
 {"timestamp":"2026-07-01 11:53:05.298 bst","session_id":"rl-main-7dc98e40","hook_name":"message-end","latency_ms":10}
+{"timestamp":"2026-07-01 11:55:24.316 bst","session_id":"rl-main-7dc98e40","hook_name":"message-end","latency_ms":9}
