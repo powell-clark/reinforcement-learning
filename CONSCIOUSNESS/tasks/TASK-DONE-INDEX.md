@@ -1,4 +1,5 @@
 id|title|story_ids|directive_id|feature_ids|doc|expected_duration|story_points
+TASK-RL037|Stall - do we need to own compact hook and why is the conc version wrong?|||CONSCIOUSNESS/tasks/done-task-item-details/TASK-RL037.md||
 TASK-RL1|0a RL introduction theory|STORY-RL1|DIRECT-RL1|FEAT-RL1,FEAT-RL3|CONSCIOUSNESS/tasks/done-task-item-details/TASK-RL1.md|1d|5
 TASK-RL2|0b Gymnasium setup practical|STORY-RL1|DIRECT-RL1|FEAT-RL1,FEAT-RL3|CONSCIOUSNESS/tasks/done-task-item-details/TASK-RL2.md|1d|3
 TASK-RL3|1a MDP theory|STORY-RL2|DIRECT-RL1|FEAT-RL1,FEAT-RL2,FEAT-RL3|CONSCIOUSNESS/tasks/done-task-item-details/TASK-RL3.md|1d|5
