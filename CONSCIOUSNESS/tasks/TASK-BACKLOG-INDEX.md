@@ -1,5 +1,4 @@
 id|priority|title|story_ids|directive_id|feature_ids|doc|blocked_by|blocks|assignee|parent_task_id|sequence|expected_duration|story_points
-TASK-RL28|p4|13b Exploration practical||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL28.md|||||28|1d|5
 TASK-RL29|p4|14a Offline RL theory||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL29.md|||||29|2d|8
 TASK-RL30|p4|14b Offline RL practical||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL30.md|||||30|1d|5
 TASK-RL31|p4|15a Hierarchical RL theory||DIRECT-RL1||CONSCIOUSNESS/tasks/backlog-task-item-details/TASK-RL31.md|||||31|2d|8
