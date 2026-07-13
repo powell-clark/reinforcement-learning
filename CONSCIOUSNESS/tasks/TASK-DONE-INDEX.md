@@ -34,3 +34,4 @@ TASK-RL31|15a Hierarchical RL theory|STORY-RL16|DIRECT-RL1|FEAT-RL1,FEAT-RL2,FEA
 TASK-RL32|15b Hierarchical RL practical|STORY-RL16|DIRECT-RL1|FEAT-RL1,FEAT-RL2,FEAT-RL3,FEAT-RL18|CONSCIOUSNESS/tasks/done-task-item-details/TASK-RL32.md|1d|5
 TASK-RL38|Complete feature-story-task linkage||DIRECT-RL1||CONSCIOUSNESS/tasks/done-task-item-details/TASK-RL38.md||
 TASK-RL33|X1 RL debugging notebook|STORY-RL17|DIRECT-RL1|FEAT-RL1,FEAT-RL3,FEAT-RL19|CONSCIOUSNESS/tasks/done-task-item-details/TASK-RL33.md|1d|3
+TASK-RL34|X2 RL evaluation notebook|STORY-RL17|DIRECT-RL1|FEAT-RL1,FEAT-RL3,FEAT-RL19|CONSCIOUSNESS/tasks/done-task-item-details/TASK-RL34.md|1d|3
