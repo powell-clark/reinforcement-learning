@@ -4,14 +4,14 @@
 Deliverable: `notebooks/12a_*.ipynb` for STORY-RL13 (Multi-Agent RL). Lesson 12 — multiple agents. CTDE, Nash equilibria, and credit assignment.
 
 ## Acceptance Criteria
-- [ ] Contrast cooperative, competitive, and mixed settings
-- [ ] Explain Nash equilibria and the credit-assignment problem
-- [ ] Cover independent Q-learning and centralized-training/decentralized-execution
+- [x] Contrast cooperative, competitive, and mixed settings
+- [x] Explain Nash equilibria and the credit-assignment problem
+- [x] Cover independent Q-learning and centralized-training/decentralized-execution
 
 ## Cross-cutting Criteria
-- [ ] Notebook runs top-to-bottom on Google Colab (FEAT-RL1)
-- [ ] Uses the Gymnasium environment API where an environment is involved (FEAT-RL3)
-- [ ] Includes a from-scratch implementation of the core algorithm (FEAT-RL2)
+- [x] Notebook runs top-to-bottom on Google Colab (FEAT-RL1)
+- [x] Uses the Gymnasium environment API where an environment is involved (FEAT-RL3) — n/a, no environment: repeated matrix games only, consistent with prior pure-theory notebooks (e.g. 9a, 11a)
+- [x] Includes a from-scratch implementation of the core algorithm (FEAT-RL2)
 
 ## Technical Notes
 Game-theoretic grounding.
