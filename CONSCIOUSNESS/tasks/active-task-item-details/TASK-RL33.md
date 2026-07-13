@@ -4,13 +4,13 @@
 Deliverable: `notebooks/X1_*.ipynb` for STORY-RL17 (Professional Practice Series). X-series — professional practice. Cross-cutting practitioner skills independent of any single algorithm.
 
 ## Acceptance Criteria
-- [ ] Catalogue common RL failure modes
-- [ ] Demonstrate logging/visualization with TensorBoard and Weights & Biases
-- [ ] Cover reproducibility and hyperparameter-sensitivity analysis
+- [x] Catalogue common RL failure modes
+- [x] Demonstrate logging/visualization with TensorBoard and Weights & Biases
+- [x] Cover reproducibility and hyperparameter-sensitivity analysis
 
 ## Cross-cutting Criteria
-- [ ] Notebook runs top-to-bottom on Google Colab (FEAT-RL1)
-- [ ] Uses the Gymnasium environment API where an environment is involved (FEAT-RL3)
+- [x] Notebook runs top-to-bottom on Google Colab (FEAT-RL1)
+- [x] Uses the Gymnasium environment API where an environment is involved (FEAT-RL3)
 
 ## Technical Notes
 Practitioner debugging toolkit.
