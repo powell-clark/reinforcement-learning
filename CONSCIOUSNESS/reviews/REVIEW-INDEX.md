@@ -30,3 +30,5 @@ REVIEW-CCC32|task|TASK-RL24|agent|rl-main-9293318d|bypass-approved|1|2026-07-13 
 REVIEW-CCC033|task|TASK-RL24|agent|rl-main-9293318d|auto-approved|1|2026-07-13 12:18:22.702 gmt|
 REVIEW-CCC34|task|TASK-RL25|agent|rl-main-9293318d|bypass-approved|1|2026-07-13 12:21:53.588 gmt|auto-close: entity gate is auto-flow (reversibility-derived model, #392)
 REVIEW-CCC035|task|TASK-RL25|agent|rl-main-9293318d|auto-approved|1|2026-07-13 12:22:09.282 gmt|
+REVIEW-CCC36|task|TASK-RL26|agent|rl-main-9293318d|bypass-approved|1|2026-07-13 12:34:40.941 gmt|auto-close: entity gate is auto-flow (reversibility-derived model, #392)
+REVIEW-CCC037|task|TASK-RL26|agent|rl-main-9293318d|auto-approved|1|2026-07-13 12:35:00.652 gmt|
