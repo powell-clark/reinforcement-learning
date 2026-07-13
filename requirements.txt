@@ -19,7 +19,8 @@ torch>=2.0.0
 torchvision>=0.15.0
 
 # Multi-Agent RL
-pettingzoo>=1.24.0
+pettingzoo[classic,sisl]>=1.24.0
+supersuit>=3.9.0
 
 # Visualization & Logging
 tensorboard>=2.13.0
