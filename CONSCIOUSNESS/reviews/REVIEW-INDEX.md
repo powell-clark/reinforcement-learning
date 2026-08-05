@@ -52,3 +52,4 @@ REVIEW-CCC54|task|TASK-RL34|agent|rl-main-9293318d|bypass-approved|1|2026-07-13 
 REVIEW-CCC055|task|TASK-RL34|agent|rl-main-9293318d|auto-approved|1|2026-07-13 14:09:25.422 gmt|
 REVIEW-CCC56|task|TASK-RL35|agent|rl-main-9293318d|bypass-approved|1|2026-07-13 14:16:58.654 gmt|auto-close: entity gate is auto-flow (reversibility-derived model, #392)
 REVIEW-CCC057|task|TASK-RL35|agent|rl-main-9293318d|auto-approved|1|2026-07-13 14:17:27.029 gmt|
+REVIEW-RL8|task|TASK-RL039|agent|eglpk-661c8eec|bypass-approved|1|2026-08-05 21:58:01.413 bst|auto-close: task gate is auto-approve; duplicated inline advisor block removed (CLAUDE.md deleted — the file was solely the 19-line duplicate, byte-identical across SL/UL/RL); machine-wide posture router inheritance via ~/.llm-global/AGENTS.md advisor-lanes intact; executed by eagle-peak cockpit under TASK-EGLPK412, owning repo dormant three weeks
