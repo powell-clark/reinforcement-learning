@@ -7,9 +7,9 @@ must-have
 Unifying MC and TD along a continuous spectrum. N-step bootstrapping and TD(lambda) enable flexible balance between bias and variance.
 
 ## Acceptance Criteria
-- [ ] N-step TD prediction and n-step Sarsa implemented
-- [ ] Forward and backward views of eligibility traces explained and shown equivalent
-- [ ] TD(lambda) and Sarsa(lambda) implemented from scratch
+- [ ] **AC-1** — N-step TD prediction and n-step Sarsa implemented
+- [ ] **AC-2** — Forward and backward views of eligibility traces explained and shown equivalent
+- [ ] **AC-3** — TD(lambda) and Sarsa(lambda) implemented from scratch
 
 ## Stories
 STORY-RL6

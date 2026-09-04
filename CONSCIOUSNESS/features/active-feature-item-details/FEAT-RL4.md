@@ -7,10 +7,10 @@ must-have
 Formal mathematical foundation of RL. The MDP tuple and Bellman equations underpin every algorithm that follows.
 
 ## Acceptance Criteria
-- [ ] MDP tuple (S, A, P, R, gamma) formally defined
-- [ ] Bellman expectation and optimality equations derived step by step
-- [ ] V(s) and Q(s,a) value functions defined and related
-- [ ] A from-scratch MDP solver produces optimal policies on small MDPs
+- [ ] **AC-1** — MDP tuple (S, A, P, R, gamma) formally defined
+- [ ] **AC-2** — Bellman expectation and optimality equations derived step by step
+- [ ] **AC-3** — V(s) and Q(s,a) value functions defined and related
+- [ ] **AC-4** — A from-scratch MDP solver produces optimal policies on small MDPs
 
 ## Stories
 STORY-RL2

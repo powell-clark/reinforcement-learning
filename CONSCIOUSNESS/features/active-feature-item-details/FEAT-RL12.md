@@ -7,9 +7,9 @@ must-have
 Stable policy optimization. KL constraints, natural gradients, and the clipped surrogate objective make PPO the industry standard.
 
 ## Acceptance Criteria
-- [ ] TRPO and KL-constrained/natural policy gradients explained
-- [ ] PPO clipped surrogate objective and adaptive KL penalty derived
-- [ ] Production PPO reproduced with SB3 on continuous control
+- [ ] **AC-1** — TRPO and KL-constrained/natural policy gradients explained
+- [ ] **AC-2** — PPO clipped surrogate objective and adaptive KL penalty derived
+- [ ] **AC-3** — Production PPO reproduced with SB3 on continuous control
 
 ## Stories
 STORY-RL10

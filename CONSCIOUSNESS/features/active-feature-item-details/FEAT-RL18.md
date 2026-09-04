@@ -7,9 +7,9 @@ must-have
 Temporal abstraction and options. Semi-MDPs, feudal RL, and HER enable agents to plan over extended time horizons and reuse skills.
 
 ## Acceptance Criteria
-- [ ] Temporal abstraction and the options framework explained
-- [ ] Semi-MDPs and goal-conditioned RL covered
-- [ ] Hindsight Experience Replay implemented with goal-conditioned policies
+- [ ] **AC-1** — Temporal abstraction and the options framework explained
+- [ ] **AC-2** — Semi-MDPs and goal-conditioned RL covered
+- [ ] **AC-3** — Hindsight Experience Replay implemented with goal-conditioned policies
 
 ## Stories
 STORY-RL16

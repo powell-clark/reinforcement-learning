@@ -7,9 +7,9 @@ must-have
 RL for robotics. Deterministic policy gradients and entropy-regularized RL enable solving continuous-action control problems.
 
 ## Acceptance Criteria
-- [ ] DPG/DDPG derived and a from-scratch DDPG implemented
-- [ ] TD3 and SAC explained; entropy-regularized RL covered
-- [ ] SAC reproduced with SB3 and compared against DDPG/TD3
+- [ ] **AC-1** — DPG/DDPG derived and a from-scratch DDPG implemented
+- [ ] **AC-2** — TD3 and SAC explained; entropy-regularized RL covered
+- [ ] **AC-3** — SAC reproduced with SB3 and compared against DDPG/TD3
 
 ## Stories
 STORY-RL11

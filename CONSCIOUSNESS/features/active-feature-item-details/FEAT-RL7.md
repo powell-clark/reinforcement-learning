@@ -7,9 +7,9 @@ must-have
 Combining MC and DP by bootstrapping. TD(0), Sarsa, and Q-learning form the core of online model-free control.
 
 ## Acceptance Criteria
-- [ ] TD(0) prediction implemented with the TD error explained
-- [ ] Sarsa (on-policy) and Q-learning (off-policy) implemented from scratch
-- [ ] Expected Sarsa implemented; bias-variance tradeoff discussed
+- [ ] **AC-1** — TD(0) prediction implemented with the TD error explained
+- [ ] **AC-2** — Sarsa (on-policy) and Q-learning (off-policy) implemented from scratch
+- [ ] **AC-3** — Expected Sarsa implemented; bias-variance tradeoff discussed
 
 ## Stories
 STORY-RL5

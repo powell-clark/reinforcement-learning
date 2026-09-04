@@ -7,9 +7,9 @@ must-have
 Learning from complete episodes without a model. Introduces model-free prediction and control via importance sampling.
 
 ## Acceptance Criteria
-- [ ] First-visit and every-visit MC prediction implemented
-- [ ] MC control with exploring starts and epsilon-greedy policies implemented
-- [ ] On-policy vs off-policy explained with importance sampling
+- [ ] **AC-1** — First-visit and every-visit MC prediction implemented
+- [ ] **AC-2** — MC control with exploring starts and epsilon-greedy policies implemented
+- [ ] **AC-3** — On-policy vs off-policy explained with importance sampling
 
 ## Stories
 STORY-RL4

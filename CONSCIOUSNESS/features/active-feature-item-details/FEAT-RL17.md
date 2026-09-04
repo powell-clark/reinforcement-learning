@@ -7,9 +7,9 @@ must-have
 Learning from fixed datasets and expert demonstrations. Behavioral cloning, IRL, GAIL, and CQL enable learning without online interaction.
 
 ## Acceptance Criteria
-- [ ] Behavioral cloning implemented
-- [ ] Inverse RL and GAIL explained
-- [ ] Conservative Q-Learning covered; offline RL run on a benchmark
+- [ ] **AC-1** — Behavioral cloning implemented
+- [ ] **AC-2** — Inverse RL and GAIL explained
+- [ ] **AC-3** — Conservative Q-Learning covered; offline RL run on a benchmark
 
 ## Stories
 STORY-RL15

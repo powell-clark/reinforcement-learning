@@ -7,9 +7,9 @@ must-have
 Learning and planning. Dyna, Monte Carlo tree search, and world models enable sample-efficient learning through explicit planning.
 
 ## Acceptance Criteria
-- [ ] Dyna-Q implemented from scratch (integrated planning and learning)
-- [ ] Model learning framed as supervised learning within RL
-- [ ] MCTS and AlphaZero-style planning introduced
+- [ ] **AC-1** — Dyna-Q implemented from scratch (integrated planning and learning)
+- [ ] **AC-2** — Model learning framed as supervised learning within RL
+- [ ] **AC-3** — MCTS and AlphaZero-style planning introduced
 
 ## Stories
 STORY-RL12

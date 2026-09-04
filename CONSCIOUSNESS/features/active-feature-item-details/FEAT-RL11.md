@@ -7,9 +7,9 @@ must-have
 Directly optimizing policies. The policy gradient theorem, REINFORCE, and Actor-Critic algorithms enable learning on continuous action spaces.
 
 ## Acceptance Criteria
-- [ ] Policy gradient theorem derived
-- [ ] REINFORCE and Actor-Critic implemented from scratch
-- [ ] Baselines and the advantage function A(s,a)=Q-V explained; SB3 A2C reproduced
+- [ ] **AC-1** — Policy gradient theorem derived
+- [ ] **AC-2** — REINFORCE and Actor-Critic implemented from scratch
+- [ ] **AC-3** — Baselines and the advantage function A(s,a)=Q-V explained; SB3 A2C reproduced
 
 ## Stories
 STORY-RL9

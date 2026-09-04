@@ -7,9 +7,9 @@ must-have
 Multiple agents learning in cooperative, competitive, and mixed settings. CTDE and Nash equilibria govern multi-agent training.
 
 ## Acceptance Criteria
-- [ ] Cooperative/competitive/mixed settings and Nash equilibria explained
-- [ ] Independent Q-learning and CTDE implemented
-- [ ] Multi-agent training loops run on PettingZoo environments
+- [ ] **AC-1** — Cooperative/competitive/mixed settings and Nash equilibria explained
+- [ ] **AC-2** — Independent Q-learning and CTDE implemented
+- [ ] **AC-3** — Multi-agent training loops run on PettingZoo environments
 
 ## Stories
 STORY-RL13

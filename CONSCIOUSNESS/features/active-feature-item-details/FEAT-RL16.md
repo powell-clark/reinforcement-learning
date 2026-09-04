@@ -7,9 +7,9 @@ must-have
 Principled exploration beyond epsilon-greedy. UCB, Thompson sampling, and intrinsic motivation enable solving hard, sparse-reward tasks.
 
 ## Acceptance Criteria
-- [ ] UCB and Thompson sampling explained and implemented
-- [ ] Curiosity-driven and count-based exploration covered
-- [ ] Random Network Distillation combined with PPO on a sparse-reward task
+- [ ] **AC-1** — UCB and Thompson sampling explained and implemented
+- [ ] **AC-2** — Curiosity-driven and count-based exploration covered
+- [ ] **AC-3** — Random Network Distillation combined with PPO on a sparse-reward task
 
 ## Stories
 STORY-RL14

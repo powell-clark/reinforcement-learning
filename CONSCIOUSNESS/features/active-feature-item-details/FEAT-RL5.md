@@ -7,9 +7,9 @@ must-have
 Solving known MDPs with dynamic programming. Policy evaluation, improvement, and iteration establish convergence guarantees.
 
 ## Acceptance Criteria
-- [ ] Policy evaluation, policy improvement, and policy iteration implemented from scratch
-- [ ] Value iteration implemented and related to policy iteration
-- [ ] Convergence guarantees and computational complexity explained
+- [ ] **AC-1** — Policy evaluation, policy improvement, and policy iteration implemented from scratch
+- [ ] **AC-2** — Value iteration implemented and related to policy iteration
+- [ ] **AC-3** — Convergence guarantees and computational complexity explained
 
 ## Stories
 STORY-RL3

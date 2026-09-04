@@ -7,9 +7,9 @@ must-have
 Deep learning meets RL. Experience replay and fixed targets enable stable learning in high-dimensional state spaces.
 
 ## Acceptance Criteria
-- [ ] DQN derived with experience replay and fixed Q-targets
-- [ ] From-scratch DQN in PyTorch trains on CartPole
-- [ ] Double, Dueling, and Prioritized-Replay DQN variants explained; SB3 DQN reproduced
+- [ ] **AC-1** — DQN derived with experience replay and fixed Q-targets
+- [ ] **AC-2** — From-scratch DQN in PyTorch trains on CartPole
+- [ ] **AC-3** — Double, Dueling, and Prioritized-Replay DQN variants explained; SB3 DQN reproduced
 
 ## Stories
 STORY-RL8

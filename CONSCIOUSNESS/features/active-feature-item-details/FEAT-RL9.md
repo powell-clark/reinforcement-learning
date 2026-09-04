@@ -7,9 +7,9 @@ must-have
 Scaling beyond tabular state spaces. Linear and semi-gradient methods, tile coding, RBF features introduce the deadly triad.
 
 ## Acceptance Criteria
-- [ ] Linear function approximation and semi-gradient methods implemented
-- [ ] Tile coding and RBF features demonstrated
-- [ ] The deadly triad (approximation, bootstrapping, off-policy) explained with divergence examples
+- [ ] **AC-1** — Linear function approximation and semi-gradient methods implemented
+- [ ] **AC-2** — Tile coding and RBF features demonstrated
+- [ ] **AC-3** — The deadly triad (approximation, bootstrapping, off-policy) explained with divergence examples
 
 ## Stories
 STORY-RL7

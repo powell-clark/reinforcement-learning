@@ -7,9 +7,9 @@ must-have
 Professional-practice notebooks enabling learners to debug, evaluate, deploy, and stay current with RL research beyond algorithm lessons.
 
 ## Acceptance Criteria
-- [ ] Debugging, evaluation, deployment, and research-frontier notebooks delivered
-- [ ] Evaluation notebook covers statistically fair algorithm comparison
-- [ ] Deployment notebook covers sim-to-real, safe exploration, and reward hacking
+- [ ] **AC-1** — Debugging, evaluation, deployment, and research-frontier notebooks delivered
+- [ ] **AC-2** — Evaluation notebook covers statistically fair algorithm comparison
+- [ ] **AC-3** — Deployment notebook covers sim-to-real, safe exploration, and reward hacking
 
 ## Stories
 STORY-RL17
