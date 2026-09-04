@@ -1,0 +1,2 @@
+{"schema_version":1,"event":"status-change","task_id":"TASK-RL36","from":"in_progress","to":"in_review","note":"X4 notebook wired through gymnasium.Env for FEAT-RL3, verified top-to-bottom","timestamp":"2026-09-04 21:31:14.511 bst","session_id":"rl-237716d8","canonical_id":"237716d8-4fbb-4a30-bb98-5d253ae836c7","branch":"main"}
+{"schema_version":1,"event":"status-change","task_id":"TASK-RL36","from":"in_review","to":"done","timestamp":"2026-09-04 21:31:14.663 bst","session_id":"rl-237716d8","canonical_id":"237716d8-4fbb-4a30-bb98-5d253ae836c7","branch":"main"}

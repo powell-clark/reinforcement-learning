@@ -37,3 +37,4 @@ TASK-RL33|X1 RL debugging notebook|STORY-RL17|DIRECT-RL1|FEAT-RL1,FEAT-RL3,FEAT-
 TASK-RL34|X2 RL evaluation notebook|STORY-RL17|DIRECT-RL1|FEAT-RL1,FEAT-RL3,FEAT-RL19|CONSCIOUSNESS/tasks/done-task-item-details/TASK-RL34.md|1d|3
 TASK-RL35|X3 RL deployment notebook|STORY-RL17|DIRECT-RL1|FEAT-RL1,FEAT-RL3,FEAT-RL19|CONSCIOUSNESS/tasks/done-task-item-details/TASK-RL35.md|1d|3
 TASK-RL039|Remove duplicated inline advisor discipline||||TASK-RL039.md||
+TASK-RL36|X4 RL research frontiers|STORY-RL17|DIRECT-RL1|FEAT-RL1,FEAT-RL3,FEAT-RL19|CONSCIOUSNESS/tasks/done-task-item-details/TASK-RL36.md|1d|3
