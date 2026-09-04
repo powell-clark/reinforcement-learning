@@ -73,6 +73,18 @@ CONSCIOUSNESS/stream/preferences.yaml
 CONSCIOUSNESS/stream/session-health.jsonl
 CONSCIOUSNESS/stream/turns.jsonl
 CONSCIOUSNESS/stream/model-attribution.jsonl
+CONSCIOUSNESS/stream/command-usage.jsonl
+CONSCIOUSNESS/stream/evaluations/session-report.jsonl
+CONSCIOUSNESS/stream/framing-checks.jsonl
+CONSCIOUSNESS/stream/hooks.jsonl
+CONSCIOUSNESS/stream/protect-events.jsonl
+CONSCIOUSNESS/stream/sessions.jsonl
+CONSCIOUSNESS/stream/subagent-spawns.jsonl
+
+# .claude/ session-local bookkeeping (per-session, regenerated every turn)
+.claude/turn-start-ts.*.txt
+.claude/framing-blocked.*.txt
+.claude/universe-last-poll.txt
 
 # Claude Code session transcripts carry signed thinking blocks — never commit (arXiv:2608.09867)
 chats/
