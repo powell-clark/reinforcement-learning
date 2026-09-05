@@ -13,7 +13,7 @@ FEAT-RL11|in_review|p1|must-have|Policy Gradient Methods (Lesson 8)|STORY-RL9|TA
 FEAT-RL12|in_review|p1|must-have|Trust Region and PPO (Lesson 9)|STORY-RL10|TASK-RL19,TASK-RL20,TASK-RL053|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL12.md
 FEAT-RL13|in_review|p1|must-have|Continuous Control (Lesson 10)|STORY-RL11|TASK-RL21,TASK-RL22,TASK-RL054|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL13.md
 FEAT-RL14|in_review|p1|must-have|Model-Based RL (Lesson 11)|STORY-RL12|TASK-RL23,TASK-RL24|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL14.md
-FEAT-RL15|in_review|p1|must-have|Multi-Agent RL (Lesson 12)|STORY-RL13|TASK-RL25,TASK-RL26|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL15.md
+FEAT-RL15|in_review|p1|must-have|Multi-Agent RL (Lesson 12)|STORY-RL13|TASK-RL25,TASK-RL26,TASK-RL055|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL15.md
 FEAT-RL16|in_review|p1|must-have|Exploration Strategies (Lesson 13)|STORY-RL14|TASK-RL27,TASK-RL28|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL16.md
 FEAT-RL17|in_review|p1|must-have|Offline RL and Imitation (Lesson 14)|STORY-RL15|TASK-RL29,TASK-RL30|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL17.md
 FEAT-RL18|in_review|p1|must-have|Hierarchical RL (Lesson 15)|STORY-RL16|TASK-RL31,TASK-RL32|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL18.md
