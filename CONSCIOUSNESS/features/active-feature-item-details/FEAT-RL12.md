@@ -7,9 +7,9 @@ must-have
 Stable policy optimization. KL constraints, natural gradients, and the clipped surrogate objective make PPO the industry standard.
 
 ## Acceptance Criteria
-- [ ] **AC-1** — TRPO and KL-constrained/natural policy gradients explained
-- [ ] **AC-2** — PPO clipped surrogate objective and adaptive KL penalty derived
-- [ ] **AC-3** — Production PPO reproduced with SB3 on continuous control
+- [x] **AC-1** — TRPO and KL-constrained/natural policy gradients explained (evidence: 9a_trpo_ppo_theory.ipynb, TRPO KL-constraint / conjugate-gradient section)
+- [ ] **AC-2** — PPO clipped surrogate objective and adaptive KL penalty derived — NOT MET: the clipped surrogate is derived and implemented (ppo_clip/PPOObjective), but adaptive KL penalty is never mentioned anywhere in the notebook.
+- [ ] **AC-3** — Production PPO reproduced with SB3 on continuous control — NOT MET: 9b's SB3 PPO run on HalfCheetah-v4 is real code but unexecuted; no output confirms reproduction.
 
 ## Stories
 STORY-RL10
