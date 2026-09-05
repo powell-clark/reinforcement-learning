@@ -38,3 +38,5 @@ TASK-RL34|X2 RL evaluation notebook|STORY-RL17|DIRECT-RL1|FEAT-RL1,FEAT-RL3,FEAT
 TASK-RL35|X3 RL deployment notebook|STORY-RL17|DIRECT-RL1|FEAT-RL1,FEAT-RL3,FEAT-RL19|CONSCIOUSNESS/tasks/done-task-item-details/TASK-RL35.md|1d|3
 TASK-RL039|Remove duplicated inline advisor discipline||||TASK-RL039.md||
 TASK-RL36|X4 RL research frontiers|STORY-RL17|DIRECT-RL1|FEAT-RL1,FEAT-RL3,FEAT-RL19|CONSCIOUSNESS/tasks/done-task-item-details/TASK-RL36.md|1d|3
+TASK-RL040|Deep-learning build supervisor counted a dead, rate-limited builder seat as live for 90+ minutes, freezing new seat starts||||TASK-RL040.md||
+TASK-RL041|Deep-learning build supervisor counted a dead, rate-limited builder seat as live for 90+ minutes, freezing new seat starts||||TASK-RL041.md||

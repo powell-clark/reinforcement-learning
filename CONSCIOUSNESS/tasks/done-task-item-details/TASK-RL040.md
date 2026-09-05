@@ -1,10 +1,10 @@
-# TASK-RL041: Deep-learning build supervisor counted a dead, rate-limited builder seat as live for 90+ minutes, freezing new seat starts
+# TASK-RL040: Deep-learning build supervisor counted a dead, rate-limited builder seat as live for 90+ minutes, freezing new seat starts
 
 > **Needs review:** the agent created this task during real-time validation and is uncertain about scope or priority. Operator should review and re-tier as appropriate.
 
 ## Context
 
-Auto-created from /consciousness:issue (issue:5aL-4uUFKw4HKDtOHcyMA).
+Auto-created from /consciousness:issue (issue:HLBymPk-KnjPw1SsxaWHi).
 
 Report context:
 Sibling repo, not this one: /home/powell-clark/projects/auxiliary/deep-learning.
@@ -33,18 +33,19 @@ transcripts:
 
 ## Acceptance criteria
 
-- [ ] _(to be filled in)_
+- [x] Confirmed exact duplicate of TASK-RL041 — both auto-created from separate `/consciousness:issue` filings of the same incident (first attempt used an unauthorised `--no-gh` flag and minted this card with no GitHub link; the corrected re-run minted TASK-RL041 with the full GitHub trail instead of returning this id, contradicting the documented on-title idempotency)
+- [x] Closed as duplicate rather than worked separately — no second fix or second upstream filing needed; see TASK-RL041 for the surviving evidence trail
 
 ## Dependencies
 
-- _(to be filled in)_
+- Duplicate of TASK-RL041 (same title, same underlying incident)
 
 ## Pre-mortem
 
 ### Failure modes
 
-- _(to be filled in)_
+- None — this card does no independent work; it only records the dedup decision
 
 ### Weak assumptions
 
-- _(to be filled in)_
+- None

@@ -1,10 +1,10 @@
-# TASK-RL040: Deep-learning build supervisor counted a dead, rate-limited builder seat as live for 90+ minutes, freezing new seat starts
+# TASK-RL041: Deep-learning build supervisor counted a dead, rate-limited builder seat as live for 90+ minutes, freezing new seat starts
 
 > **Needs review:** the agent created this task during real-time validation and is uncertain about scope or priority. Operator should review and re-tier as appropriate.
 
 ## Context
 
-Auto-created from /consciousness:issue (issue:HLBymPk-KnjPw1SsxaWHi).
+Auto-created from /consciousness:issue (issue:5aL-4uUFKw4HKDtOHcyMA).
 
 Report context:
 Sibling repo, not this one: /home/powell-clark/projects/auxiliary/deep-learning.
@@ -33,18 +33,20 @@ transcripts:
 
 ## Acceptance criteria
 
-- [ ] _(to be filled in)_
+- [x] Consuming-repo fix shipped and verified live — deep-learning `scripts/supervisor.sh` excludes `blocked` from its live-seat census for `--permission-mode bypassPermissions` seats (commit `0d16121`, pushed to `origin/main`); confirmed live by manually running the supervisor and observing a real seat start (`dl-builder-040211`) immediately afterwards
+- [x] Upstream defect filed against the owning plugin — `claude agents --json`'s `blocked` state conflates "transiently blocked, may resume" with "process exited, permanently dead", with no distinguishing signal (no heartbeat, no dead-adjacent terminal state); filed as https://github.com/powell-clark/consciousness/issues/2240
+- [x] Duplicate roadmap entry (TASK-RL040, minted by a mistaken retry that passed an unauthorised `--no-gh` flag) closed with a bypass-approved verdict pointing back here
 
 ## Dependencies
 
-- _(to be filled in)_
+- None outstanding — the fix, the upstream filing, and the dedup are all complete
 
 ## Pre-mortem
 
 ### Failure modes
 
-- _(to be filled in)_
+- The upstream `blocked`-state ambiguity is still unresolved in the plugin itself; any future consumer seat NOT launched with `bypassPermissions` remains exposed to the same misclassification and cannot use this workaround (a real permission-wait seat legitimately reports `blocked`) — tracked for the plugin maintainer via the filed GitHub issue, not further scoped here
 
 ### Weak assumptions
 
-- _(to be filled in)_
+- Assumes deep-learning's builder seats are launched exclusively with `--permission-mode bypassPermissions` (true as of `supervisor.sh`'s current `start_seat()`); if that ever changes, the exclusion in commit `0d16121` would need re-scoping
