@@ -80,11 +80,17 @@ CONSCIOUSNESS/stream/hooks.jsonl
 CONSCIOUSNESS/stream/protect-events.jsonl
 CONSCIOUSNESS/stream/sessions.jsonl
 CONSCIOUSNESS/stream/subagent-spawns.jsonl
+CONSCIOUSNESS/stream/daily.jsonl
+CONSCIOUSNESS/stream/ivm-snapshot.md
+CONSCIOUSNESS/stream/cursors/
+CONSCIOUSNESS/pgps-snapshots/
 
 # .claude/ session-local bookkeeping (per-session, regenerated every turn)
 .claude/turn-start-ts.*.txt
 .claude/framing-blocked.*.txt
 .claude/universe-last-poll.txt
+.claude/framing-nudge.*.txt
+.claude/consciousness-loop.*.md
 
 # Claude Code session transcripts carry signed thinking blocks — never commit (arXiv:2608.09867)
 chats/
