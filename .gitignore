@@ -90,6 +90,9 @@ CONSCIOUSNESS/pgps-snapshots/
 .claude/framing-blocked.*.txt
 .claude/universe-last-poll.txt
 .claude/framing-nudge.*.txt
+.claude/framing-miss.*.txt
+.claude/naming-precision-reminder.*.md
+.claude/continuation-brief.md
 .claude/consciousness-loop.*.md
 
 # Claude Code session transcripts carry signed thinking blocks — never commit (arXiv:2608.09867)
