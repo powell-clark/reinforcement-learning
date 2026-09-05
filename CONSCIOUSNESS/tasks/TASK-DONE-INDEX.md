@@ -41,3 +41,4 @@ TASK-RL36|X4 RL research frontiers|STORY-RL17|DIRECT-RL1|FEAT-RL1,FEAT-RL3,FEAT-
 TASK-RL040|Deep-learning build supervisor counted a dead, rate-limited builder seat as live for 90+ minutes, freezing new seat starts||||TASK-RL040.md||
 TASK-RL041|Deep-learning build supervisor counted a dead, rate-limited builder seat as live for 90+ minutes, freezing new seat starts||||TASK-RL041.md||
 TASK-RL042|Verify feature acceptance criteria against notebooks||DIRECT-RL1||TASK-RL042.md||
+TASK-RL044|Fix FEAT-RL1 Colab-runnable gaps||DIRECT-RL1|FEAT-RL1|TASK-RL044.md||
