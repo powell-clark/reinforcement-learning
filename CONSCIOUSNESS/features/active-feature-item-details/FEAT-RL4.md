@@ -8,9 +8,9 @@ Formal mathematical foundation of RL. The MDP tuple and Bellman equations underp
 
 ## Acceptance Criteria
 - [x] **AC-1** — MDP tuple (S, A, P, R, gamma) formally defined (evidence: 1a_mdp_theory.ipynb, "Formal Definition" section + MDP class)
-- [ ] **AC-2** — Bellman expectation and optimality equations derived step by step — NOT MET: equations are presented as given formulas with an interpretation, never derived step by step from the return definition G_t.
+- [x] **AC-2** — Bellman expectation and optimality equations derived step by step (evidence: TASK-RL047, commit ebe2a15, 1a_mdp_theory.ipynb cell 12 — derives V^π and Q^π from G_t via linearity of expectation and the law of total expectation, then derives V*/Q* from V*(s)=max_a Q*(s,a))
 - [x] **AC-3** — V(s) and Q(s,a) value functions defined and related (evidence: 1a_mdp_theory.ipynb, Bellman Equations section defining V^π and Q^π, with Q nested inside V's summation and V*/Q* related via max)
-- [ ] **AC-4** — A from-scratch MDP solver produces optimal policies on small MDPs — NOT MET: MDPSolver.value_iteration() code is real and correct, but the code cell in 1a_mdp_theory.ipynb has no stored execution output, so there is no evidence it was ever run or actually produced the claimed optimal policy.
+- [x] **AC-4** — A from-scratch MDP solver produces optimal policies on small MDPs (evidence: TASK-RL047, commit ebe2a15 — MDPSolver.value_iteration() executed on student_mdp, converged in 154 iterations to V(S)=42.1053/V(L)=100.0000, π=Study in both states; hand-verified exact match against the MDP's own reward structure)
 
 ## Stories
 STORY-RL2
