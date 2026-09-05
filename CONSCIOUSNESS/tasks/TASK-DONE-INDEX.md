@@ -45,3 +45,4 @@ TASK-RL044|Fix FEAT-RL1 Colab-runnable gaps||DIRECT-RL1|FEAT-RL1|TASK-RL044.md||
 TASK-RL056|Fix 9b PPOAgent update shape bug||||TASK-RL056.md||
 TASK-RL045|Fix FEAT-RL2 dual-implementation gaps||DIRECT-RL1|FEAT-RL2|TASK-RL045.md||
 TASK-RL046|Fix FEAT-RL3 Gymnasium-integration gaps||DIRECT-RL1|FEAT-RL3|TASK-RL046.md||
+TASK-RL047|Fix FEAT-RL4 MDP theory gaps|STORY-RL2|DIRECT-RL1|FEAT-RL4|TASK-RL047.md||
