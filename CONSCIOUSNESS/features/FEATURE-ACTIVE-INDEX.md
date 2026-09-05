@@ -10,7 +10,7 @@ FEAT-RL8|in_review|p1|must-have|N-Step and Eligibility Traces (Lesson 5)|STORY-R
 FEAT-RL9|in_review|p1|must-have|Function Approximation (Lesson 6)|STORY-RL7|TASK-RL13,TASK-RL14|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL9.md
 FEAT-RL10|in_review|p1|must-have|Deep Q-Networks (Lesson 7)|STORY-RL8|TASK-RL15,TASK-RL16,TASK-RL051|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL10.md
 FEAT-RL11|in_review|p1|must-have|Policy Gradient Methods (Lesson 8)|STORY-RL9|TASK-RL17,TASK-RL18,TASK-RL052|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL11.md
-FEAT-RL12|in_review|p1|must-have|Trust Region and PPO (Lesson 9)|STORY-RL10|TASK-RL19,TASK-RL20|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL12.md
+FEAT-RL12|in_review|p1|must-have|Trust Region and PPO (Lesson 9)|STORY-RL10|TASK-RL19,TASK-RL20,TASK-RL053|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL12.md
 FEAT-RL13|in_review|p1|must-have|Continuous Control (Lesson 10)|STORY-RL11|TASK-RL21,TASK-RL22|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL13.md
 FEAT-RL14|in_review|p1|must-have|Model-Based RL (Lesson 11)|STORY-RL12|TASK-RL23,TASK-RL24|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL14.md
 FEAT-RL15|in_review|p1|must-have|Multi-Agent RL (Lesson 12)|STORY-RL13|TASK-RL25,TASK-RL26|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL15.md
