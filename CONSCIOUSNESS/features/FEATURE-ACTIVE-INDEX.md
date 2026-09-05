@@ -8,7 +8,7 @@ FEAT-RL6|in_review|p1|must-have|Monte Carlo Methods (Lesson 3)|STORY-RL4|TASK-RL
 FEAT-RL7|in_review|p1|must-have|Temporal Difference Learning (Lesson 4)|STORY-RL5|TASK-RL9,TASK-RL10,TASK-RL049|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL7.md
 FEAT-RL8|in_review|p1|must-have|N-Step and Eligibility Traces (Lesson 5)|STORY-RL6|TASK-RL11,TASK-RL12,TASK-RL050|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL8.md
 FEAT-RL9|in_review|p1|must-have|Function Approximation (Lesson 6)|STORY-RL7|TASK-RL13,TASK-RL14|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL9.md
-FEAT-RL10|in_review|p1|must-have|Deep Q-Networks (Lesson 7)|STORY-RL8|TASK-RL15,TASK-RL16|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL10.md
+FEAT-RL10|in_review|p1|must-have|Deep Q-Networks (Lesson 7)|STORY-RL8|TASK-RL15,TASK-RL16,TASK-RL051|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL10.md
 FEAT-RL11|in_review|p1|must-have|Policy Gradient Methods (Lesson 8)|STORY-RL9|TASK-RL17,TASK-RL18|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL11.md
 FEAT-RL12|in_review|p1|must-have|Trust Region and PPO (Lesson 9)|STORY-RL10|TASK-RL19,TASK-RL20|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL12.md
 FEAT-RL13|in_review|p1|must-have|Continuous Control (Lesson 10)|STORY-RL11|TASK-RL21,TASK-RL22|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL13.md
