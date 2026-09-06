@@ -17,10 +17,10 @@ labelled Learning Objective.
 
 ## Acceptance criteria
 
-- [ ] **AC-1** — Add an explicit "**Learning Objective:**" statement to `1a_mdp_theory.ipynb`'s introduction (cell 0), stating in one sentence what the learner will be able to do after the lesson (define an MDP tuple, derive the Bellman equations, implement a from-scratch solver)
-- [ ] **AC-2** — Add a new cell pair after `1b_mdp_practical.ipynb`'s existing Exercise 1 code cell (cell 31) that independently recomputes the Bellman-optimality residual for `V_noslip`/`policy_noslip` (NOT by re-calling `value_iteration()`) and asserts it is near zero and that `policy_noslip` is greedy with respect to it, printing PASS/FAIL
-- [ ] **AC-3** — The new check is a genuine correctness review, not a duplicate of the exercise's own method: it recomputes Q(s,a) directly from the Bellman optimality equation using `P_noslip`/`R_noslip`/`gamma`, independent of `value_iteration()`'s internal iteration
-- [ ] **AC-4** — `1a_mdp_theory.ipynb` and `1b_mdp_practical.ipynb` execute top-to-bottom with zero error-type output cells after the above changes, verified via an independent nbformat scan (not just the executor's own exit code)
+- [x] **AC-1** — Add an explicit "**Learning Objective:**" statement to `1a_mdp_theory.ipynb`'s introduction (cell 0), stating in one sentence what the learner will be able to do after the lesson (define an MDP tuple, derive the Bellman equations, implement a from-scratch solver). MET: commit 2df18cd.
+- [x] **AC-2** — Add a new cell pair after `1b_mdp_practical.ipynb`'s existing Exercise 1 code cell (cell 31) that independently recomputes the Bellman-optimality residual for `V_noslip`/`policy_noslip` (NOT by re-calling `value_iteration()`) and asserts it is near zero and that `policy_noslip` is greedy with respect to it, printing PASS/FAIL. MET: commit eb0bcbe, cells 32-33; executed output prints "PASS: V_noslip satisfies the Bellman optimality equation and policy_noslip is greedy w.r.t. it." with residual 0.00e+00.
+- [x] **AC-3** — The new check is a genuine correctness review, not a duplicate of the exercise's own method: it recomputes Q(s,a) directly from the Bellman optimality equation using `P_noslip`/`R_noslip`/`gamma`, independent of `value_iteration()`'s internal iteration. MET: commit eb0bcbe, `bellman_q()` in cell 33 loops `P_noslip[s][a].items()` directly and never calls `value_iteration()`.
+- [x] **AC-4** — `1a_mdp_theory.ipynb` and `1b_mdp_practical.ipynb` execute top-to-bottom with zero error-type output cells after the above changes, verified via an independent nbformat scan (not just the executor's own exit code). MET: `jupyter nbconvert --execute --inplace` on both (commit eb0bcbe), followed by a standalone nbformat scan of `outputs[].output_type == 'error'` across both notebooks returning zero matches.
 
 ## Dependencies
 

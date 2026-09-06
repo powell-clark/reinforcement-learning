@@ -57,3 +57,4 @@ TASK-RL055|Fix FEAT-RL15 multi-agent RL gaps|STORY-RL13|DIRECT-RL1|FEAT-RL15|TAS
 TASK-RL057|Fix remaining FEAT-RL1 Colab-runnable gaps||DIRECT-RL1|FEAT-RL1|TASK-RL057.md||
 TASK-RL058|Fix FEAT-RL2 SB3 comparison gaps||DIRECT-RL1|FEAT-RL2|TASK-RL058.md||
 TASK-RL059|Fix FEAT-RL3 gym API and registration gaps||DIRECT-RL1|FEAT-RL3|TASK-RL059.md||
+TASK-RL060|Build FEAT-RL20 exercise and correctness review|STORY-RL2|DIRECT-RL1|FEAT-RL20|CONSCIOUSNESS/tasks/done-task-item-details/TASK-RL060.md||
