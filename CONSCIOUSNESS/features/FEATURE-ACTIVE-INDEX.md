@@ -18,3 +18,8 @@ FEAT-RL16|in_review|p1|must-have|Exploration Strategies (Lesson 13)|STORY-RL14|T
 FEAT-RL17|in_review|p1|must-have|Offline RL and Imitation (Lesson 14)|STORY-RL15|TASK-RL29,TASK-RL30|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL17.md
 FEAT-RL18|in_review|p1|must-have|Hierarchical RL (Lesson 15)|STORY-RL16|TASK-RL31,TASK-RL32|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL18.md
 FEAT-RL19|in_review|p1|must-have|Professional Practice Series (X-series)|STORY-RL17|TASK-RL33,TASK-RL34,TASK-RL35,TASK-RL36|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL19.md
+FEAT-RL20|active|p1|must-have|MDP lesson exercise and correctness review|STORY-RL2|TASK-RL060|CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL20.md
+FEAT-RL21|active|p2|must-have|Dynamic programming exercise and correctness review|STORY-RL3||CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL21.md
+FEAT-RL22|active|p2|must-have|Monte Carlo exercise and correctness review|STORY-RL4||CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL22.md
+FEAT-RL23|active|p2|must-have|Temporal difference exercise and correctness review|STORY-RL5||CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL23.md
+FEAT-RL24|active|p2|must-have|N-step traces exercise and correctness review|STORY-RL6||CONSCIOUSNESS/features/active-feature-item-details/FEAT-RL24.md
