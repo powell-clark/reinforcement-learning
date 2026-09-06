@@ -10,9 +10,9 @@ One genuine gap survives: **AC-2** — "a custom GridWorld environment is provid
 
 ## Acceptance criteria
 
-- [ ] **AC-1** — 1b trains a tabular algorithm (e.g. Q-learning) against `gym.make('GridWorld-v0')`, using the 5-tuple step API and a seeded `reset(seed=...)` for reproducibility
-- [ ] **AC-2** — 1b's GridWorld cell(s) execute cleanly top-to-bottom (zero error-type output cells, verified via an independent nbformat error-cell scan, not just the executor's exit code)
-- [ ] **AC-3** — FEAT-RL3's AC-2 is updated to MET, citing this task's commit and the GridWorld-v0 cell added to 1b
+- [x] **AC-1** — 1b trains a tabular algorithm (e.g. Q-learning) against `gym.make('GridWorld-v0')`, using the 5-tuple step API and a seeded `reset(seed=...)` for reproducibility — MET (commit ab01c06): a new model-free Q-learning section was added to 1b, reusing 0a's guarded `gym.register()` pattern, `gw_env.reset(seed=42 + episode)` per episode, and the 5-tuple `step()` API. Learned policy reaches 100% empirical success rate over 100 evaluation episodes.
+- [x] **AC-2** — 1b's GridWorld cell(s) execute cleanly top-to-bottom (zero error-type output cells, verified via an independent nbformat error-cell scan, not just the executor's exit code) — MET: 1b re-executed top-to-bottom via `jupyter nbconvert --to notebook --execute --inplace` (exit 0), independently re-verified with a standalone nbformat scan of all `output_type == "error"` cells: 18/18 code cells clean, 0 unexecuted.
+- [x] **AC-3** — FEAT-RL3's AC-2 is updated to MET, citing this task's commit and the GridWorld-v0 cell added to 1b — MET (commit c2d6e2b): FEAT-RL3.md's AC-2 row now reads MET, citing TASK-RL059 and commit ab01c06.
 
 ## Dependencies
 
