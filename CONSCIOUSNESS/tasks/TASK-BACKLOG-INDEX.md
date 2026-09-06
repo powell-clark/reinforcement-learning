@@ -2,3 +2,4 @@ id|priority|title|story_ids|directive_id|feature_ids|doc|blocked_by|blocks|assig
 TASK-RL043|p3|Wire reinforcement-learning sibling channel to EGLPK bus||||TASK-RL043.md|||||a0cst||
 TASK-RL057|p2|Fix remaining FEAT-RL1 Colab-runnable gaps||DIRECT-RL1|FEAT-RL1|TASK-RL057.md|||||a1BJV||
 TASK-RL058|p2|Fix FEAT-RL2 SB3 comparison gaps||DIRECT-RL1|FEAT-RL2|TASK-RL058.md|||||a2MkT||
+TASK-RL059|p2|Fix FEAT-RL3 gym API and registration gaps||DIRECT-RL1|FEAT-RL3|TASK-RL059.md|||||a3WJV||
