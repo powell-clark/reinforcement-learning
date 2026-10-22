@@ -1,5 +1,9 @@
 # Reinforcement Learning
 
+## Status
+
+> These lessons are a living textbook in progress. They were drafted with AI assistance and are being worked through, checked and rewritten by the author as he studies them. An independent academic review on 2026-10-22 produced the findings in [ERRATA.md](ERRATA.md); the open ones are not yet fixed. Treat every lesson as a draft until its errata are closed.
+
 A university-grade curriculum for reinforcement learning, from Markov decision processes and
 dynamic programming through deep Q-networks, policy gradients, PPO and continuous control. Every
 method is derived from first principles, implemented from scratch in NumPy or PyTorch, then checked
